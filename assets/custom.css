@@ -1,49 +1,49 @@
 @font-face {
     font-family: 'Georgia';
     src: local('Georgia'),
-        url('/fonts/Georgia.woff2') format('woff2');
+        url('../fonts/Georgia.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Georgia';
     src: local('Georgia'),
-        url('/fonts/Georgia-Bold.woff2') format('woff2');
+        url('../fonts/Georgia-Bold.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Georgia';
     src: local('Georgia'),
-        url('/fonts/Georgia-Italic.woff2') format('woff2');
+        url('../fonts/Georgia-Italic.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Georgia';
     src: local('Georgia'),
-        url('/fonts/Georgia-BoldItalic.woff2') format('woff2');
+        url('../fonts/Georgia-BoldItalic.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Helvetica Neue';
     src: local('Helvetica Neue'),
-        url('/fonts/Helvetica.woff2') format('woff2');
+        url('../fonts/Helvetica.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Helvetica Neue';
     src: local('Helvetica Neue'),
-        url('/fonts/Helvetica-Bold.woff2') format('woff2');
+        url('../fonts/Helvetica-Bold.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Helvetica Neue';
     src: local('Helvetica Neue'),
-        url('/fonts/Helvetica-Oblique.woff2') format('woff2');
+        url('../fonts/Helvetica-Oblique.woff2') format('woff2');
 }
 
 @font-face {
     font-family: 'Helvetica Neue';
     src: local('Helvetica Neue'),
-        url('/fonts/Helvetica-BoldOblique.woff2') format('woff2');
+        url('../fonts/Helvetica-BoldOblique.woff2') format('woff2');
 }
 
 @font-face {
