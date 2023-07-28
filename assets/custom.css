@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Georgia';
+    src: local('Georgia'),
+        url('/fonts/Georgia.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: local('Georgia'),
+        url('/fonts/Georgia-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: local('Georgia'),
+        url('/fonts/Georgia-Italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Georgia';
+    src: local('Georgia'),
+        url('/fonts/Georgia-BoldItalic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue'),
+        url('/fonts/Helvetica.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue'),
+        url('/fonts/Helvetica-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue'),
+        url('/fonts/Helvetica-Oblique.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: local('Helvetica Neue'),
+        url('/fonts/Helvetica-BoldOblique.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+}
+
+html {
+    font-family: Georgia, Cambria, 'Times New Roman', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+}
+
+article {
+    font-size: 20px;
+    line-height: 1.7em;
+    line-height: 1.7;
+    --tw-text-opacity: 1;
+    color: rgb(10 10 10 / var(--tw-text-opacity));
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a.nav-item {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+a.site-title {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.prose :where(h1):not(:where([class~="not-prose"] *)) {
+    font-size: 2em;
+    line-height: 1.2;
+}
+
+.subtitle {
+    color: rgb(96 96 96 / var(--tw-text-opacity));
+    font-size: 1.2em;
+}
+
+:is(.dark .subtitle) {
+    --tw-text-opacity: 1;
+    color: rgb(176 174 168 / var(--tw-text-opacity));
+}
+
+.post-metadata.text-sm {
+    font-size: .9rem;
+}
+
+.bl-metadata.text-sm {
+    line-height: 2rem;
+}
+
+.mt-0 {
+    margin-top: 0px;
+}
+
+.m-a {
+    margin: auto;
+}
+
+.bl-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bl-item-text {
+    flex: 0 0 70%;
+    word-break: break-word;
+}
+
+.bl-item-image {
+    margin-left: 20px;
+    /* width: 100px;
+    height: 100px; */
+}
+
+.bl-item-image img {
+    margin-top: 0;
+}
+
+.desktop-show {
+    display: none;
+}
+
+.switch-wrapper {
+    width: 60px;
+    height: 30px;
+    padding: 7px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.switch-bar {
+    background-color: rgb(200, 212, 224);
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.switch-icon-bg {
+    top: 0;
+    position: absolute;
+    background-color: #f7cba1;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s cubic-bezier(0.6, 0.25, 0.5, 0.7);
+    -webkit-transition: all 0.3s cubic-bezier(0.6, 0.25, 0.5, 0.7);
+    -moz-transition: all 0.3s cubic-bezier(0.6, 0.25, 0.5, 0.7);
+}
+
+.dark .switch-icon-bg {
+    background-color: #323280;
+}
+
+.dark .switch-icon-bg {
+    transform: translateX(16px);
+}
+
+.switch-icon {
+    position: relative;
+}
+
+figcaption p {
+    margin-top: 0.8rem !important;
+    margin-bottom: 0 !important;
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    .desktop-show {
+        display: block;
+    }
+
+    .mobile-show {
+        display: none;
+    }
+
+    .bl-item-text {
+        flex: 0 0 75%;
+    }
+
+    .bl-item-image {
+        margin-left: 50px;
+        /* width: 400px;
+        height: 400px; */
+    }
+
+    .d-w-50 {
+        width: 50%;
+    }
+    
+    .d-w-75 {
+        width: 75%;
+    }
+}
+
+@media (max-width: 320px) {
+    .text-2xl {
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+    }
+
+    .prose :where(h1):not(:where([class~="not-prose"] *)) {
+        font-size: 1.5em;
+    }
+    
+    .prose :where(h2):not(:where([class~="not-prose"] *)) {
+        font-size: 1.25em;
+    }
+
+    .prose :where(h3):not(:where([class~="not-prose"] *)) {
+        font-size: 1em;
+    }
+}

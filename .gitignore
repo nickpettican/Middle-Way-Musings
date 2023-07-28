@@ -7,6 +7,8 @@
 *.dll
 *.so
 *.dylib
+*.darwin
+*.linux
 
 # Test binary, built with `go test -c`
 *.test
@@ -19,3 +21,16 @@
 
 # Go workspace file
 go.work
+
+# macOS files
+.DS_Store
+.DS_Store/*
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock

@@ -1,2 +1,3 @@
-# middle-way-musings
-A blog about philosophy and other stuff
+# Middle Way Musings
+
+A blog about philosophy and other stuff, from the lens of a Madhyamikan.

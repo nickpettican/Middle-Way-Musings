@@ -1,0 +1,48 @@
+baseURL = "https://middlewaymusings.github.io/"
+languageCode = "en-us"
+title = "Middle Way Musings"
+description = "Exploring enlightenment through Buddhism and science. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
+theme = "paper"
+paginate = 5
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+    tag = "tags"
+    series = "series"
+    
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  # color style
+  color = "linen"                           # linen, wheat, gray, light
+
+  # header social icons
+  github = "nickpettican"                   # github.com/YOUR_GITHUB_ID
+  instagram = "middlewaymonk"               # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = "nicolaspettican"              # linkedin.com/in/YOUR_LINKEDIN_ID
+  #rss = true                               # show rss icon
+
+  # home page profile
+  avatar = "nicolaspettican@gmail.com"      # gravatar email or image url
+  avatar_url = "/images/middle-way-monk-profile.jpg"
+  name = "Nicolas Pettican"
+  bio = "Overly curious logic-wielder, aspiring wizard."
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  #gravatarCdn = "GRAVATAR_CDN_LINK"        # e.g. "https://cdn.v2ex.com/gravatar/"
+  #graphCommentId = "YOUR_GRAPH_COMMENT_ID" # use graph comment (disqus alternative)
+  commentBoxId = "5748664181981184-proj"    # use comment box (disqus alternative)
+  math = true                               # enable KaTex math typesetting globally
