@@ -12,7 +12,7 @@ tags: [
     "Tibetan",
     "Indian",
 ]
-draft: true
+draft: false
 ---
 
 {{< figure 

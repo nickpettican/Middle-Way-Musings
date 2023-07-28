@@ -1,10 +1,11 @@
 ---
 title: "About"
 date: 2023-07-03T10:08:13+05:30
-description: "Exploring enlightenment through Buddhism and science. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
+description: "Exploring enlightenment through Buddhism logic. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
 author: "Nicolas Pettican"
-aliases: ["about-us", "about-middle-way-musings", "contact"]
-draft: true
+aliases: ["about"]
+comments: false
+draft: false
 ---
 
 Welcome to Middle Way Musings! Here, we explore the tapestry of reality through the "Middle Way" lens of Buddhism. Our musings go beyond definitive answers, serving as mental adventures that delve into Buddhism, science, and more.

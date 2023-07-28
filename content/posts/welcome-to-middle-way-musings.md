@@ -10,7 +10,7 @@ tags: [
     "Reflections",
     "Personal Insights",
 ]
-draft: true
+draft: false
 ---
 
 {{< figure 
