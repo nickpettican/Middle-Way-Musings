@@ -10,7 +10,7 @@
 @font-face {
     font-family: 'Georgia';
     src: 
-        local('Georgia'),
+        local('Georgia-Bold'),
         url('/fonts/Georgia-Bold.woff2') format('woff2');
     font-style: normal;
     font-weight: 700;
@@ -19,7 +19,7 @@
 @font-face {
     font-family: 'Georgia';
     src: 
-        local('Georgia'),
+        local('Georgia-Italic'),
         url('/fonts/Georgia-Italic.woff2') format('woff2');
     font-style: italic;
     font-weight: 400;
@@ -28,7 +28,7 @@
 @font-face {
     font-family: 'Georgia';
     src: 
-        local('Georgia'),
+        local('Georgia-BoldItalic'),
         url('/fonts/Georgia-BoldItalic.woff2') format('woff2');
     font-style: italic;
     font-weight: 700;
@@ -37,7 +37,7 @@
 @font-face {
     font-family: 'Helvetica Neue';
     src: 
-        local('Helvetica Neue'),
+        local('HelveticaNeue-Light'),
         url('/fonts/HelveticaNeue-Light.woff2') format('woff2');
     font-style: normal;
     font-weight: 400;
@@ -46,7 +46,7 @@
 @font-face {
     font-family: 'Helvetica Neue';
     src: 
-        local('Helvetica Neue'),
+        local('HelveticaNeue-Roman'),
         url('/fonts/HelveticaNeue-Roman.woff2') format('woff2');
     font-style: normal;
     font-weight: 700;
@@ -55,7 +55,7 @@
 @font-face {
     font-family: 'Helvetica Neue';
     src: 
-        local('Helvetica Neue'),
+        local('HelveticaNeue-Oblique'),
         url('/fonts/Helvetica-Oblique.woff2') format('woff2');
     font-style: italic;
     font-weight: 400;
@@ -64,7 +64,7 @@
 @font-face {
     font-family: 'Helvetica Neue';
     src: 
-        local('Helvetica Neue'),
+        local('HelveticaNeue-BoldOblique'),
         url('/fonts/Helvetica-BoldOblique.woff2') format('woff2');
     font-style: italic;
     font-weight: 700;
@@ -204,10 +204,36 @@ a.site-title {
     position: relative;
 }
 
-figcaption p {
-    margin-top: 0.8rem !important;
-    margin-bottom: 0 !important;
+.prose figcaption p {
+    margin-top: 0.8rem;
+    margin-bottom: 0;
     font-size: 14px;
+}
+
+/* lists */
+
+.prose ol ol {
+    list-style-type: lower-alpha;
+}
+
+.prose ol ol ol {
+    list-style-type: lower-roman;
+}
+
+.prose ol ol ol ol {
+    list-style-type: decimal;
+}
+
+.prose ol ol ol ol ol {
+    list-style-type: upper-alpha;
+}
+
+.prose ol ol ol ol ol ol {
+    list-style-type: upper-roman;
+}
+
+.prose ol ol ol ol ol ol ol {
+    list-style-type: disc;
 }
 
 @media (min-width: 768px) {
