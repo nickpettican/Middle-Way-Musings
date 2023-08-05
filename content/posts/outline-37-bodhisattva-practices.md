@@ -1,7 +1,7 @@
 ---
 title: "The 37 Practices of a Bodhisattva's Outline"
 subtitle: "There are enough translations, but not enough outlines"
-excerpt: "Given this text has been translated by enough people, I didn't want to make yet another translation. However, while reading a Tibetan commentary from Jigme Tsultrim Palzang I came accross an interesting outline..."
+excerpt: "Given this text has been translated by enough people, I didn't want to make yet another translation. However, while studying a Tibetan commentary from Jigme Tsultrim Palzang I came accross an interesting outline..."
 date: 2023-08-04T17:13:41+05:30
 author: "Nicolas Pettican"
 feature_image: "/images/Gyalse-Tokme-Zangpo.jpeg"
@@ -11,10 +11,10 @@ tags: [
     "Tibetan",
     "Mahayana"
 ]
-draft: true
+draft: false
 ---
 
-Given this text has been translated by enough people [^1] [^2] [^3], I didn't want to make yet another translation of the root text. However, while studying a Tibetan commentary from འཇིགས་མེད་ཚུལ་ཁྲིམས་དཔལ་བཟང་། (Jigme Tsultrim Palzang), I came accross an interesting outline that I hadn't seen before. It really helped me to understand the root text better, so I'm sharing the translation I made of this outline.
+Given this text has been translated by enough people [^1] [^2] [^3], I didn't want to make yet another translation. However, while studying a Tibetan commentary from འཇིགས་མེད་ཚུལ་ཁྲིམས་དཔལ་བཟང་། (Jigme Tsultrim Palzang), I came accross an interesting outline that I hadn't seen before. It really helped me to understand the root text better, so I'm sharing the translation I made of this outline.
 
 ## The outline
 
@@ -57,7 +57,7 @@ Each number in parentheses indicates the corresponding practice with a total of 
                         1. ཆགས་ཡུལ་ལ་བདེན་ཞན་སྤོང་བ། (23) _abandon objects of desire as truly existing_
                         2. སྡང་ཡུལ་ལ་བདེན་ཞེན་སྤོང་བ། (24) _abandon objects of anger as truly existing_
 
-3. སེམས་བསྐྱེད་ཀྱི་བསླབ་བྱ། _training for generating the aspiration་(to reach enlightenment)_
+3. སེམས་བསྐྱེད་ཀྱི་བསླབ་བྱ། _training for generating the aspiration (to reach enlightenment)_
     1. བསླབ་བྱའི་གཙོ་བོ་ཕྱིན་དྲུག་བཤད་པ། _explanation of the training's main point: the Six Paramitas (transcendental perfections)_
         1. སྦྱིན་པ། (25) _generosity_
         2. ཚུལ་ཁྲིམས། (26) _discipline (cooling the kleshas i.e. afflictive emotions)_
@@ -73,6 +73,8 @@ Each number in parentheses indicates the corresponding practice with a total of 
         5. ཉོན་མོངས་པ་སྤོང་ཚུལ། (25) _abandon kleshas (afflictive emotions)_
         6. དྲན་ཤེས་དོན་བསྡུ། (36) _be mindful (in order to benefit others)_
         7. དགེ་བསྔོ། (37) _dedicate the merit (for the enlightenment of all sentient beings)_
+
+Any suggestions are most welcome, use the comment section.
 
 [^1]: Pearcey, Adam. (2006). "The Thirty-Seven Practices of All the Bodhisattvas." [Online]. Available: https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/37-practices-all-bodhisattvas
 [^2]: Sonam, Ruth. (2009). "The Thirty-seven Practices of Bodhisattvas." Kong Meng San Phor Kark See Monastery. Available: https://thubtenchodron.org/wp-content/uploads/2018/08/37Practices_of_Bodhisattvas_2018.pdf
