@@ -70,7 +70,7 @@ Each number in parentheses indicates the corresponding practice with a total of 
         2. བྱང་སེམས་ལ་ཉེས་སྨྲ་སྤོང་བ། (32) _abandon bad speech to clear the mind_
         3. སྦྱིན་བདག་གི་ཁྱིམ་ལ་ཆགས་པ་སྤོང་བ། (33) _abandon desire for a sponsor / for our sponsor's property_
         4. རྩུབ་ཚིག་སྨྲ་བ་སྤོང་བ། (34) _abandon rude words_
-        5. ཉོན་མོངས་པ་སྤོང་ཚུལ། (25) _abandon kleshas (afflictive emotions)_
+        5. ཉོན་མོངས་པ་སྤོང་ཚུལ། (35) _abandon kleshas (afflictive emotions)_
         6. དྲན་ཤེས་དོན་བསྡུ། (36) _be mindful (in order to benefit others)_
         7. དགེ་བསྔོ། (37) _dedicate the merit (for the enlightenment of all sentient beings)_
 
