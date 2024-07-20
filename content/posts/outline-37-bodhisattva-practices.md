@@ -22,57 +22,59 @@ Each number in parentheses indicates the corresponding practice with a total of 
 
 ### རྒྱལ་བའི་སྲས་ཀྱི་ལག་ལེན་སུམ་ཅུ་སོ་བདུན། The 37 Practices of a Bodhisattva
 
-1. སེམས་བསྐྱེད་སྐྱེ་བའི་རྒྱུ། _cause of generating the aspiration (to reach enlightenment)_
-    1. དལ་འབྱོར་རྙེད་དཀར། (1) _leisure and fortune difficult to find (precious human life)_
-    2. ཡུལ་ངན་སྤོང་བ། (2) _abandon bad habits_
-    3. དབེན་གནས་བརྟེན་ཚུར། (3) _rely properly on solitude_
-    4. མི་རྟག་དྲན་པ། (4) _remember impermanence_
-    5. གྲོགས་ངན་སྤོང་བ། (5) _abandon bad friends_
-    6. བཤེས་གཉེན་བསྟེན་ཚུས། (6) _rely on spiritual friends_
-    7. སྐྱབས་སུ་འགྲོ་བ། (7) _go for refuge_
+<pre>
+1. སེམས་བསྐྱེད་སྐྱེ་བའི་རྒྱུ། cause of generating Bodhichitta
+    1. དལ་འབྱོར་རྙེད་དཀར། (1) leisure and fortune difficult to find (precious human life)
+    2. ཡུལ་ངན་སྤོང་བ། (2) abandon bad habits
+    3. དབེན་གནས་བརྟེན་ཚུར། (3) rely properly on solitude
+    4. མི་རྟག་དྲན་པ། (4) remember impermanence
+    5. གྲོགས་ངན་སྤོང་བ། (5) abandon bad friends
+    6. བཤེས་གཉེན་བསྟེན་ཚུས། (6) rely on spiritual friends
+    7. སྐྱབས་སུ་འགྲོ་བ། (7) go for refuge
 
-2. སེམས་བསྐྱེད་དངོས་བཤད་པ་དང་། _main explanation of generating the aspiration (to reach enlightenment)_
-    1. ཀུན་རྫོབ་སེམས་བསྐྱེད། _relative aspiration mind generation_
-        1. སྐྱེས་བུ་ཆུང་ཆུང་གི་ལམ། (8) _person of lower capacity_
-        2. སྐྱེས་བུ་འབྲིང་པོའི་ལམ། (9) _person of middling capacity_
-        3. སྐྱེས་བུ་ཆེན་པོའི་ལམ། _person of great capacity_
-            1. བསམ་པ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ། (10) _Aspirising Bodhichitta_
-            2. སྦྱོར་བ་བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ། _Engaging Bodhichitta_
-                1. ཀུན་རྫོབ་སེམས་བསྐྱེད་བསྒོམ་པ། _meditating on Relative Bodhichitta_
-                    1. མཉམ་བཞག་ཏུ་བདག་གཞན་བརྫེ་བ་བསྒོམ་པ། (11) _meditative equipoise on exchanging (the suffering and happiness) of self and others_
-                    2. རྗེས་ཐོབ་ཏུ་རྐྱེན་ངན་ལམ་དུ་འཁྱེར་བ། _during post-meditation, taking bad circumstances as the path_
-                        1. རྙེད་འཕྲོག་ལམ་འཁྱེར། (12) _deprivation of wealth_
-                        2. དགྲ་བོ་ལམ་འཁྱེར། (13) _enemies_
-                        3. མི་སྙམ་པ་ལམ་འཁྱེར། (14) _infamy and defamation_
-                        4. ཚོག་ངན་ལམ་འཁྱེར། (15) _criticism and insults_
-                        5. ལོག་སྒྲུབ་ལམ་འཁྱེར། (16) _betrayal_
-                        6. བརྙས་པ་ལམ་འཁྱེར། (17) _disdain and despite_
-                        7. རྒུད་པ་ལམ་འཁྱེར། (18) _disadvantages, illness and harm_
-                        8. འབྱོར་བ་ལམ་འཁྱེར། (19) _having wealth_
-                        9. ཞེ་སྡང་ལམ་འཁྱེར། (20) _having hatred_
-                        10. འདོད་ཆགས་ལམ་འཁྱེར། (21) _having desire_
-                2. དོན་དམ་སེམས་བསྐྱེད་བསྒོམ་པ། _meditating on Absolute Bodhichitta_
-                    1. མཉམ་བཞག་ཏུ་སྤྲོས་བྲལ་བསྒོམ་པ། (22) _meditative equipoise free from elaboration_
-                    2. རྗེས་ཐོབ་ཏུ་ཆགས་སྡང་གི་ཡུལ་ལ་བདེན་ཞེན་སྤོང་བ། _during post-meditation, abandon the objects of desire and aversion_
-                        1. ཆགས་ཡུལ་ལ་བདེན་ཞན་སྤོང་བ། (23) _abandon objects of desire as truly existing_
-                        2. སྡང་ཡུལ་ལ་བདེན་ཞེན་སྤོང་བ། (24) _abandon objects of anger as truly existing_
+2. སེམས་བསྐྱེད་དངོས་བཤད་པ་དང་། actual explanation of generating Bodhichitta
+    1. ཀུན་རྫོབ་སེམས་བསྐྱེད། Relative Bodhichitta
+        1. སྐྱེས་བུ་ཆུང་ཆུང་གི་ལམ། (8) person of lower capacity
+        2. སྐྱེས་བུ་འབྲིང་པོའི་ལམ། (9) person of middling capacity
+        3. སྐྱེས་བུ་ཆེན་པོའི་ལམ། person of great capacity
+            1. བསམ་པ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ། (10) Aspirising Bodhichitta
+            2. སྦྱོར་བ་བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ། Engaging Bodhichitta
+                1. ཀུན་རྫོབ་སེམས་བསྐྱེད་བསྒོམ་པ། meditating on Relative Bodhichitta
+                    1. མཉམ་བཞག་ཏུ་བདག་གཞན་བརྫེ་བ་བསྒོམ་པ། (11) meditative equipoise on exchanging (the suffering and happiness) of self and others
+                    2. རྗེས་ཐོབ་ཏུ་རྐྱེན་ངན་ལམ་དུ་འཁྱེར་བ། during post-meditation, taking bad circumstances as the path
+                        1. རྙེད་འཕྲོག་ལམ་འཁྱེར། (12) deprivation of wealth
+                        2. དགྲ་བོ་ལམ་འཁྱེར། (13) enemies
+                        3. མི་སྙམ་པ་ལམ་འཁྱེར། (14) infamy and defamation
+                        4. ཚོག་ངན་ལམ་འཁྱེར། (15) criticism and insults
+                        5. ལོག་སྒྲུབ་ལམ་འཁྱེར། (16) betrayal
+                        6. བརྙས་པ་ལམ་འཁྱེར། (17) disdain and despite
+                        7. རྒུད་པ་ལམ་འཁྱེར། (18) disadvantages, illness and harm
+                        8. འབྱོར་བ་ལམ་འཁྱེར། (19) having wealth
+                        9. ཞེ་སྡང་ལམ་འཁྱེར། (20) having hatred
+                        10. འདོད་ཆགས་ལམ་འཁྱེར། (21) having desire
+                2. དོན་དམ་སེམས་བསྐྱེད་བསྒོམ་པ། meditating on Absolute Bodhichitta
+                    1. མཉམ་བཞག་ཏུ་སྤྲོས་བྲལ་བསྒོམ་པ། (22) meditative equipoise free from elaboration
+                    2. རྗེས་ཐོབ་ཏུ་ཆགས་སྡང་གི་ཡུལ་ལ་བདེན་ཞེན་སྤོང་བ། during post-meditation, abandon the objects of desire and aversion
+                        1. ཆགས་ཡུལ་ལ་བདེན་ཞན་སྤོང་བ། (23) abandon objects of desire as truly existing
+                        2. སྡང་ཡུལ་ལ་བདེན་ཞེན་སྤོང་བ། (24) abandon objects of anger as truly existing
 
-3. སེམས་བསྐྱེད་ཀྱི་བསླབ་བྱ། _training for generating the aspiration (to reach enlightenment)_
-    1. བསླབ་བྱའི་གཙོ་བོ་ཕྱིན་དྲུག་བཤད་པ། _explanation of the training's main point: the Six Paramitas (transcendental perfections)_
-        1. སྦྱིན་པ། (25) _generosity_
-        2. ཚུལ་ཁྲིམས། (26) _discipline (cooling the kleshas i.e. afflictive emotions)_
-        3. བཟོད་པ། (27) _patience (acceptance)_
-        4. བཙོན་འགྲུས། (28) _enthusiasm_
-        5. བསམ་གཏན། (29) _samadhi (meditation)_
-        6. ཤེས་རབ། (30) _prajna (wisdom)_
-    2. དེ་རྒྱུད་ལ་བསྟེན་ཚུལ་བཤད་པ། _explanation of how to conduct ourselves based on our own experience_
-        1. རང་གི་འཁྲུལ་དརྟག་སྤོང་བ། (31) _examine and abandon our mistakes_
-        2. བྱང་སེམས་ལ་ཉེས་སྨྲ་སྤོང་བ། (32) _abandon bad speech to clear the mind_
-        3. སྦྱིན་བདག་གི་ཁྱིམ་ལ་ཆགས་པ་སྤོང་བ། (33) _abandon desire for a sponsor / for our sponsor's property_
-        4. རྩུབ་ཚིག་སྨྲ་བ་སྤོང་བ། (34) _abandon rude words_
-        5. ཉོན་མོངས་པ་སྤོང་ཚུལ། (35) _abandon kleshas (afflictive emotions)_
-        6. དྲན་ཤེས་དོན་བསྡུ། (36) _be mindful (in order to benefit others)_
-        7. དགེ་བསྔོ། (37) _dedicate the merit (for the enlightenment of all sentient beings)_
+3. སེམས་བསྐྱེད་ཀྱི་བསླབ་བྱ། training for Bodhichitta
+    1. བསླབ་བྱའི་གཙོ་བོ་ཕྱིན་དྲུག་བཤད་པ། explanation of the training's main point: the Six Paramitas (transcendental perfections)
+        1. སྦྱིན་པ། (25) generosity
+        2. ཚུལ་ཁྲིམས། (26) discipline (cooling the kleshas i.e. afflictive emotions)
+        3. བཟོད་པ། (27) patience (acceptance)
+        4. བཙོན་འགྲུས། (28) enthusiasm
+        5. བསམ་གཏན། (29) samadhi (meditation)
+        6. ཤེས་རབ། (30) prajna (wisdom)
+    2. དེ་རྒྱུད་ལ་བསྟེན་ཚུལ་བཤད་པ། explanation of how to conduct ourselves based on our own experience
+        1. རང་གི་འཁྲུལ་དརྟག་སྤོང་བ། (31) examine and abandon our mistakes
+        2. བྱང་སེམས་ལ་ཉེས་སྨྲ་སྤོང་བ། (32) abandon bad speech to clear the mind
+        3. སྦྱིན་བདག་གི་ཁྱིམ་ལ་ཆགས་པ་སྤོང་བ། (33) abandon desire for a sponsor / for our sponsor's property
+        4. རྩུབ་ཚིག་སྨྲ་བ་སྤོང་བ། (34) abandon rude words
+        5. ཉོན་མོངས་པ་སྤོང་ཚུལ། (35) abandon kleshas (afflictive emotions)
+        6. དྲན་ཤེས་དོན་བསྡུ། (36) be mindful (in order to benefit others)
+        7. དགེ་བསྔོ། (37) dedicate the merit (for the enlightenment of all sentient beings)
+</pre>
 
 Any suggestions are most welcome, use the comment section.
 

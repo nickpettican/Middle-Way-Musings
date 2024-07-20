@@ -8,9 +8,9 @@ comments: false
 draft: false
 ---
 
-Welcome to Middle Way Musings! Here, we explore the fabric of reality through the "Middle Way" lens of Buddhism. Our musings go beyond definitive answers, serving as mental adventures that delve into Buddhism, science, and more.
+Welcome to Middle Way Musings! Here, we explore the fabric of reality through the "Middle Way" lens of Buddhism. The musings go beyond definitive answers, serving as mental adventures that delve into Buddhism, science, and more.
 
-So, who's behind these musings? It's me! With a background in science, technology and overthinking, I've spent over a decade volunteering and founding organizations addressing social issues. Along the way, I've dabbled in Buddhadharma since 2012, but it wasn't until 2017 that I fully embraced the path. Now, as a full-time student in a Tibetan Monastic University, I'm excited to share the insights gained from this journey.
+So, who's behind all these musings? Well, that's me! With a background in science, technology, overthinking and a thirst for philosophy, I've spent more than a decade volunteering and founding organizations addressing social issues. Along the way, I've been dabbling in Buddhadharma, but it wasn't until life gave me lemons that I fully embraced the path. Now, as a full-time student in a Tibetan Monastic University, I'm excited to share the insights gained from this journey.
 
 But why the fascination with Buddhism? As a scientifically inclined mind, I sought a deeper understanding of reality beyond what science alone could offer. That's where Mahayana Buddhism, particularly Madhyamaka i.e. the Middle Way [^1], entered the picture. It provided me with the tools to challenge materialistic views and bridge the gap between science and spirituality.
 

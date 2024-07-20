@@ -23,7 +23,7 @@ draft: false
 
 ## Preface
 
-This poem was written during my second Traditional Rain Retreat. It is a reflection meant to generate the mind of "renunciation", although the correct word to convey the meaning of the sanskrit words niḥsaraṇa or niryāṇa would be emergence or going forth. 
+This poem was written during my second Traditional Rain Retreat. It is a reflection meant to generate the mind of "renunciation", although the correct word to convey the meaning of the sanskrit words niḥsaraṇa or niryāṇa would be "emergence" or "going forth". 
 
 The poem was written as an octameter in English and as a heptameter in Tibetan, as is done traditionally. It explores the impermanence of the phenomena we desire and the illusory nature of desire itself through the metaphor of a fleeting tulip's beauty.
 
