@@ -22,13 +22,13 @@ if [ -z "$message" ]; then
     exit 1
 fi
 
-echo -e "Updating submodule/n"
+echo -e "Updating submodule\n"
 
 git submodule update --init --recursive
 
-echo -e "Building site"
+echo -e "Building site for production\n"
 
-hugo -t paper --minify
+hugo -t paper --minify --environment production
 
 echo -e "Pushing to production repo\n"
 echo -e "Using message '$message'\n"
