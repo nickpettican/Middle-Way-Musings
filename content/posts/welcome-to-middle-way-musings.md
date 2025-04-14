@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Middle Way Musings"
-subtitle: "Where Curiosity and Reason Converge"
-excerpt: "Let's break it down — what exactly is the \"Middle Way\"? Well, it's not about walking down the center line of a road or finding the perfect balance between cheese and tomato sauce on your pizza (although that's important too..."
+subtitle: "Reflections from a Monastic Path"
+excerpt: "The 'Middle Way' in the Madhyamaka tradition refers not simply to moderation, but to a profound philosophical position that avoids the extremes of eternalism and nihilism—neither asserting that phenomena inherently exist nor claiming they are utterly non-existent..."
 date: 2023-07-02T13:22:52+05:30
 author: "Nicolas Pettican"
 feature_image: "/images/thien-dang-dLembqRXgas-unsplash-feature.jpg"
@@ -13,28 +13,37 @@ tags: [
 draft: false
 ---
 
-{{< figure 
-    src="/images/thien-dang-dLembqRXgas-unsplash.jpg" 
-    alt="Traveler jumping in the middle of a road" 
+{{< figure
+    src="/images/thien-dang-dLembqRXgas-unsplash.jpg"
+    alt="Traveler jumping in the middle of a road"
     class="m-a"
     caption="Photo by [Thien Dang](https://unsplash.com/@th_dangvu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/dLembqRXgas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 >}}
-  
 
-First of all, let's break it down — what exactly is the "Middle Way"? Well, it's not about walking down the center line of a road or finding the perfect balance between cheese and tomato sauce on your pizza (although that's important too). In Buddhism, the Middle Way refers to the path of avoiding extremes. It's like navigating through life's twists and turns without getting caught up in the pitfalls of excessive indulgence or severe asceticism. It's a sweet spot where wisdom and compassion harmonize, and we're here to explore it together.
+Today marks the beginning of a new journey. After years of contemplation, I've finally created this space to share my thoughts as I navigate the path of Buddhist study and practice.
 
-Now, let's talk about "Musings." Think of it as a collection of thoughts, contemplations, and reflections — mental adventures, if you will. I'm not here to dish out definitive answers or impose my views, but rather to spark curiosity, provoke thought, and explore the fascinating realms of Buddhism, science, and beyond.
+## Why "Middle Way Musings"?
 
-So, who's behind all these musings? Well, that's me! With a background in science, technology, overthinking and a thirst for philosophy, I've spent more than a decade volunteering and founding organizations addressing social issues. Along the way, I've been dabbling in Buddhadharma, but it wasn't until life gave me lemons that I fully embraced the path. And now, as a full-time student in a Tibetan Monastic University in India, I'm diving deep into the wisdom of the ages.
+The name of this blog reflects both my philosophical orientation and my approach to writing. In the Madhyamaka tradition, the "Middle Way" refers not simply to moderation, but to a profound philosophical position that avoids the extremes of eternalism and nihilism—neither asserting that phenomena inherently exist nor claiming they are utterly non-existent.
 
-Why the fascination with Buddhism? Well, as a scientifically inclined mind with a thirst for wizardry, I craved a deeper understanding of reality beyond what science alone could offer. That's where Mahayana Buddhism, particularly Madhyamaka i.e. the Middle Way [^1], entered the picture. It provided me with the tools to venture even further, challenging materialistic views and misconceptions while bridging the gap between science and spirituality.
+The Buddha himself described his approach as a middle way between sensual indulgence and harsh asceticism. But the philosophical Middle Way developed by Nagarjuna goes deeper, examining how phenomena lack inherent existence while still functioning conventionally.
 
-Through this blog, I aim to share the insights, ideas and understanding I gain on my journey through the hallowed halls of a Tibetan Monastic University. Expect a diverse array of topics, including philosophy, monasticism, religion, logic, reasoning, science, psychology, meditation, wisdom and compassion, and so much more. I'll also share translations of Mahayana texts and manuscripts, bringing ancient wisdom to light for the modern world.
+As I study these teachings in my monastic education, I find myself constantly reflecting on their application to contemporary questions, scientific discoveries, and everyday experiences. These reflections are not final conclusions, but ongoing explorations—hence, "musings."
 
-But what do I hope to achieve with all this? It's simple — to offer you perspectives and views that may be otherwise inaccessible due to language, cultural, or financial barriers. I love to challenge existing perspectives and uncover new insights that can bring benefit to others, so that we can unravel the understanding of reality together, and expand our collective knowledge.
+## What to Expect
 
-So, dear reader, welcome to Middle Way Musings. Get ready to embark on journey of mind and spirit, where intellect and curiosity intertwine, and where profound insights mingle with lighthearted musings. Together, let us navigate the Middle Way, unveiling the wonders that lie in store.
+Unlike many Buddhist blogs that focus primarily on meditation or mindfulness practice, my writings will often explore the intellectual and philosophical dimensions of Buddhism. Having come from a scientific background, I'm particularly interested in how the rigorous logical analysis of the Madhyamaka tradition can engage with modern thought.
 
-Let the musings begin!
+Some posts will analyze classical Buddhist texts I'm studying. Others might reflect on the experience of being a Western monastic in a traditional Tibetan setting. Occasionally, I'll share poetry or more personal reflections on practice.
 
-[^1]: _Madhya_ meaning "middle" in Sanskrit, _ma_ meaning "most" and _ka_ being an adjective suffix
+I make no claims to expertise or realization—these posts represent my understanding at this moment, which will undoubtedly evolve and deepen with further study and practice.
+
+## An Invitation
+
+If you're reading this, whether you're a fellow Buddhist practitioner, someone curious about Madhyamaka philosophy, or simply happened upon this blog by chance, I welcome you. I hope these writings might offer perspectives that challenge assumptions and open new avenues of thought.
+
+The beauty of the Middle Way is that it invites constant examination rather than dogmatic acceptance. In that spirit, I welcome questions, alternative viewpoints, and dialogue.
+
+My first substantive post will examine the Madhyamaka approach to causality and how it differs from both scientific materialism and religious idealism. Until then, thank you for joining me on this journey.
+
+_May all beings benefit._
