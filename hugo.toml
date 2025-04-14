@@ -1,7 +1,6 @@
 baseURL = "https://middlewaymusings.com"
 languageCode = "en-us"
 title = "Middle Way Musings"
-description = "Exploring enlightenment through Buddhism and science. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
 theme = "paper"
 paginate = 5
 
@@ -15,9 +14,6 @@ paginate = 5
 [taxonomies]
     tag = "tags"
     series = "series"
-
-# google analytics
-googleAnalytics = "G-9DKZ2SYTQK"
     
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
@@ -26,6 +22,15 @@ googleAnalytics = "G-9DKZ2SYTQK"
       unsafe = true
 
 [params]
+  # meta
+  description = "Exploring enlightenment through Buddhism and science. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
+
+  # google analytics
+  googleAnalytics = "G-9DKZ2SYTQK"
+
+  # env
+  env = "production"
+
   # color style
   color = "linen"                           # linen, wheat, gray, light
 
