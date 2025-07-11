@@ -171,7 +171,7 @@ a.site-title {
 }
 
 .switch-bar {
-    background-color: rgb(200, 212, 224);
+    background-color: rgb(218, 228, 239);
     border-radius: 10px;
     height: 100%;
     width: 100%;
@@ -180,7 +180,7 @@ a.site-title {
 .switch-icon-bg {
     top: 0;
     position: absolute;
-    background-color: #f7cba1;
+    background-color: #ffe495;
     border-radius: 50%;
     width: 30px;
     height: 30px;

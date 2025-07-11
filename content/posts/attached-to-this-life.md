@@ -3,7 +3,7 @@ title: "Attached To This Life | ཚེ་འདིར་ཞེན་པའི་
 subtitle: "Reflections on the Eight Worldly Dharmas"
 excerpt: "Written during the teaching of Nyingtik Yabshi in May 2024, this poem explores attachment to the concerns of this life and how they distract from genuine spiritual practice. It examines how even when practicing Dharma..."
 date: 2024-06-14T10:30:00+05:30
-author: "Nicolas Pettican"
+author: "Bhikshu Tenpa"
 feature_image: "/images/monk-at-the-gate-feature.jpg"
 tags: [
     "Poetry",

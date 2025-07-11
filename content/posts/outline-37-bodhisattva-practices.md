@@ -3,7 +3,7 @@ title: "The 37 Practices of a Bodhisattva's Outline"
 subtitle: "There are enough translations, but not enough outlines"
 excerpt: "Given this text has been translated by enough people, I didn't want to make yet another translation. However, while studying a Tibetan commentary from Jigme Tsultrim Palzang I came accross an interesting outline..."
 date: 2023-08-04T17:13:41+05:30
-author: "Nicolas Pettican"
+author: "Bhikshu Tenpa"
 feature_image: "/images/Gyalse-Tokme-Zangpo.jpeg"
 tags: [
     "Mind training",

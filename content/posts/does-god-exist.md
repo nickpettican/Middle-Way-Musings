@@ -3,7 +3,7 @@ title: "Does God Exist?"
 subtitle: "A Logical Refutation of Creator God"
 excerpt: "Let's examine the concept of Creator God through the lens of Madhyamaka reasoning, demonstrating how the very definition of such a deity contains inherent logical contradictions."
 date: 2024-08-24T10:00:00+05:30
-author: "Nicolas Pettican"
+author: "Bhikshu Tenpa"
 feature_image: "/images/mahabodhi-stupa-feature.jpg"
 tags: [
     "Madhyamaka",

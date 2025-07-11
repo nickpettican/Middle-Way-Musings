@@ -2,7 +2,7 @@
 title: "About Middle Way Musings"
 date: 2023-07-03T10:08:13+05:30
 description: "Exploring enlightenment through Buddhism logic. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
-author: "Nicolas Pettican"
+author: "Bhikshu Tenpa"
 aliases: ["about"]
 comments: false
 draft: false

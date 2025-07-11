@@ -43,8 +43,8 @@ paginate = 5
   # home page profile
   avatar = "nicolaspettican@gmail.com"      # gravatar email or image url
   avatar_url = "/images/middle-way-monk-profile.jpg"
-  name = "Nicolas Pettican"
-  bio = "Overly curious logic-wielder, aspiring wizard."
+  name = "Bhikshu Tenpa"
+  bio = "a.k.a. Nicolas Pettican. Overly curious logic-wielder, aspiring wizard."
 
 
   # misc

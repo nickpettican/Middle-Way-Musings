@@ -3,7 +3,7 @@ title: "Redefining Tibetan Buddhism"
 subtitle: "The Enduring Legacy of Indian Mahayana in Tibetan Buddhist Tradition"
 excerpt: "Tibetan Buddhism has captivated spiritual seekers with its vibrant expressions and distinctive cultural elements. Yet beneath these unique characteristics lies a profound truth: Tibetan Buddhism preserves and embodies the essence of Indian Mahayana Buddhism, expressed..."
 date: 2023-07-05T11:19:49+05:30
-author: "Nicolas Pettican"
+author: "Bhikshu Tenpa"
 feature_image: "/images/Avalokiteshvara-Indian-Feature.jpeg"
 tags: [
     "History",
