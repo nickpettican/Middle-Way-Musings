@@ -128,8 +128,8 @@ This interactive visualization maps the historical development of Buddhist monas
             <div class="control-group">
                 <label for="layout">Layout</label>
                 <select id="layout">
-                    <option value="force">Force-directed</option>
                     <option value="hierarchical">Hierarchical</option>
+                    <option value="force">Force-directed</option>
                 </select>
             </div>
         </div>
@@ -174,37 +174,37 @@ This interactive visualization maps the historical development of Buddhist monas
         </div>
     </div>
     <script>
-        const width = 1160;
+        const width = 700;
         const height = 700;
         // Create the network data
         const nodes = [
-            {id: "pre-sectarian", name: "Pre-sectarian Buddhism", group: "root", level: 0},
-            {id: "mahasanghika", name: "Mahāsāṃghika", group: "mahasanghika", level: 1},
-            {id: "sthavira", name: "Sthaviras", group: "sthavira", level: 1},
-            {id: "ekavyavahara", name: "Ekavyāvahārika", group: "mahasanghika", level: 2},
-            {id: "gokulika", name: "Gokulika", group: "mahasanghika", level: 2},
-            {id: "caitika", name: "Caitika", group: "mahasanghika", level: 2},
-            {id: "haimavata1", name: "Haimavata", group: "mahasanghika", level: 2},
-            {id: "lokottaravada", name: "Lokottaravāda", group: "mahasanghika", level: 3},
-            {id: "bahusrutiya", name: "Bahuśrutīya", group: "mahasanghika", level: 3},
-            {id: "prajnaptivada", name: "Prajñaptivāda", group: "mahasanghika", level: 3},
-            {id: "pudgalavada", name: "Pudgalavāda", group: "pudgalavada", level: 2},
-            {id: "sarvastivada", name: "Sarvāstivāda", group: "sarvastivada", level: 2},
-            {id: "vibhajyavada", name: "Vibhajyavāda", group: "vibhajyavada", level: 2},
-            {id: "vatsiputriya", name: "Vātsīputrīya", group: "pudgalavada", level: 3},
-            {id: "sammitiya", name: "Saṃmitīya", group: "pudgalavada", level: 3},
+            {id: "mulasarvastivada", name: "Mūlasarvāstivāda", group: "sarvastivada", level: 1},
+            {id: "dharmaguptaka1", name: "Dharmaguptaka", group: "sarvastivada", level: 1},
+            {id: "theravada2", name: "Theravāda", group: "vibhajyavada", level: 1},
+            {id: "theravada1", name: "Theravāda", group: "vibhajyavada", level: 3},
+            {id: "tambapanniya", name: "Tambapaṇṇiya", group: "vibhajyavada", level: 3},
+            {id: "kasyapiya2", name: "Kāśyapīya", group: "vibhajyavada", level: 3},
+            {id: "vibhajyavada", name: "Vibhajyavāda", group: "vibhajyavada", level: 4},
+            {id: "[mahisasaka]", name: "[Mahīśāsaka]", group: "sarvastivada", level: 2},
             {id: "haimavata2", name: "Haimavata", group: "sarvastivada", level: 3},
             {id: "kasyapiya1", name: "Kāśyapīya", group: "sarvastivada", level: 3},
             {id: "mahisasaka1", name: "Mahīśāsaka", group: "sarvastivada", level: 3},
             {id: "sautrantika", name: "Sautrāntika", group: "sarvastivada", level: 3},
-            {id: "mulasarvastivada", name: "Mūlasarvāstivāda", group: "sarvastivada", level: 3},
             {id: "vaibhasika", name: "Vaibhāṣika", group: "sarvastivada", level: 3},
-            {id: "dharmaguptaka1", name: "Dharmaguptaka", group: "sarvastivada", level: 4},
-            {id: "theravada1", name: "Theravāda", group: "vibhajyavada", level: 3},
-            {id: "tambapanniya", name: "Tambapaṇṇiya", group: "vibhajyavada", level: 3},
-            {id: "kasyapiya2", name: "Kāśyapīya", group: "vibhajyavada", level: 3},
-            {id: "theravada2", name: "Theravāda", group: "vibhajyavada", level: 4},
-            {id: "[mahisasaka]", name: "[Mahīśāsaka]", group: "sarvastivada", level: 4}
+            {id: "sarvastivada", name: "Sarvāstivāda", group: "sarvastivada", level: 4},
+            {id: "vatsiputriya", name: "Vātsīputrīya", group: "pudgalavada", level: 3},
+            {id: "sammitiya", name: "Saṃmitīya", group: "pudgalavada", level: 3},
+            {id: "pudgalavada", name: "Pudgalavāda", group: "pudgalavada", level: 4},
+            {id: "sthavira", name: "Sthaviras", group: "sthavira", level: 5},
+            {id: "lokottaravada", name: "Lokottaravāda", group: "mahasanghika", level: 3},
+            {id: "bahusrutiya", name: "Bahuśrutīya", group: "mahasanghika", level: 3},
+            {id: "prajnaptivada", name: "Prajñaptivāda", group: "mahasanghika", level: 3},
+            {id: "ekavyavahara", name: "Ekavyāvahārika", group: "mahasanghika", level: 4},
+            {id: "gokulika", name: "Gokulika", group: "mahasanghika", level: 4},
+            {id: "caitika", name: "Caitika", group: "mahasanghika", level: 4},
+            {id: "haimavata1", name: "Haimavata", group: "mahasanghika", level: 4},
+            {id: "mahasanghika", name: "Mahāsāṃghika", group: "mahasanghika", level: 5},
+            {id: "pre-sectarian", name: "Pre-sectarian Buddhism", group: "root", level: 6},
         ];
         const links = [
             {source: "pre-sectarian", target: "mahasanghika"},
