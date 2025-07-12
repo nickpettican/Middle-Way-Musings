@@ -21,6 +21,7 @@ This interactive visualization maps the historical development of Buddhist monas
     <style>
         .container {
             max-width: 1200px;
+            color: #222222;
             margin: 0 auto;
             background: white;
             border-radius: 10px;
@@ -95,6 +96,9 @@ This interactive visualization maps the historical development of Buddhist monas
             vertical-align: middle;
             border: 2px solid #fff;
             box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .note strong {
+            color: #111111;
         }
         .note {
             background: #fff3cd;
@@ -179,18 +183,18 @@ This interactive visualization maps the historical development of Buddhist monas
         // Create the network data
         const nodes = [
             {id: "mulasarvastivada", name: "Mūlasarvāstivāda", group: "sarvastivada", level: 1},
-            {id: "dharmaguptaka1", name: "Dharmaguptaka", group: "sarvastivada", level: 1},
             {id: "theravada2", name: "Theravāda", group: "vibhajyavada", level: 1},
-            {id: "theravada1", name: "Theravāda", group: "vibhajyavada", level: 3},
+            {id: "dharmaguptaka1", name: "Dharmaguptaka", group: "sarvastivada", level: 1},
+            {id: "theravada1", name: "[Theravāda]", group: "vibhajyavada", level: 3},
             {id: "tambapanniya", name: "Tambapaṇṇiya", group: "vibhajyavada", level: 3},
             {id: "kasyapiya2", name: "Kāśyapīya", group: "vibhajyavada", level: 3},
             {id: "vibhajyavada", name: "Vibhajyavāda", group: "vibhajyavada", level: 4},
             {id: "[mahisasaka]", name: "[Mahīśāsaka]", group: "sarvastivada", level: 2},
-            {id: "haimavata2", name: "Haimavata", group: "sarvastivada", level: 3},
-            {id: "kasyapiya1", name: "Kāśyapīya", group: "sarvastivada", level: 3},
-            {id: "mahisasaka1", name: "Mahīśāsaka", group: "sarvastivada", level: 3},
             {id: "sautrantika", name: "Sautrāntika", group: "sarvastivada", level: 3},
             {id: "vaibhasika", name: "Vaibhāṣika", group: "sarvastivada", level: 3},
+            {id: "mahisasaka1", name: "Mahīśāsaka", group: "sarvastivada", level: 3},
+            {id: "haimavata2", name: "Haimavata", group: "sarvastivada", level: 3},
+            {id: "kasyapiya1", name: "Kāśyapīya", group: "sarvastivada", level: 3},
             {id: "sarvastivada", name: "Sarvāstivāda", group: "sarvastivada", level: 4},
             {id: "vatsiputriya", name: "Vātsīputrīya", group: "pudgalavada", level: 3},
             {id: "sammitiya", name: "Saṃmitīya", group: "pudgalavada", level: 3},
@@ -253,10 +257,15 @@ This interactive visualization maps the historical development of Buddhist monas
         svg.call(zoom);
         // Create force simulation
         const simulation = d3.forceSimulation(nodes)
-            .force("link", d3.forceLink(links).id(d => d.id).distance(80))
+            .force("link", d3.forceLink(links).id(d => d.id).distance(d => {
+                if (d.source.id === "sarvastivada" && d.target.id === "mulasarvastivada") {
+                    return 160; // Longer distance for this specific connection
+                }
+                return 80; // Default distance for all other connections
+            }))
             .force("charge", d3.forceManyBody().strength(-300))
             .force("center", d3.forceCenter(width / 2, height / 2))
-            .force("collision", d3.forceCollide().radius(40));
+            .force("collision", d3.forceCollide().radius(50));
         // Create links with different styles for cross-lineage connections
         const survivingSchools = ["mulasarvastivada", "dharmaguptaka1", "theravada2"];
         const link = g.append("g")
