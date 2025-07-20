@@ -2,7 +2,7 @@ baseURL = "https://middlewaymusings.com"
 languageCode = "en-us"
 title = "Middle Way Musings"
 theme = "paper"
-paginate = 5
+paginate = 10
 
 [menu]
   [[menu.main]]
