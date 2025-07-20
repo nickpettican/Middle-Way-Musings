@@ -44,6 +44,6 @@ If you're reading this, whether you're a fellow Buddhist practitioner, someone c
 
 The beauty of the Middle Way is that it invites constant examination rather than dogmatic acceptance. In that spirit, I welcome questions, alternative viewpoints, and dialogue.
 
-My first substantive post will examine the Madhyamaka approach to causality and how it differs from both scientific materialism and religious idealism. Until then, thank you for joining me on this journey.
+My first substantive posts will examine the Madhyamaka approach to causality and how it differs from both scientific materialism and religious idealism. Until then, thank you for joining me on this journey.
 
 _May all beings benefit._

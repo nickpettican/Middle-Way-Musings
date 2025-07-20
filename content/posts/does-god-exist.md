@@ -6,10 +6,10 @@ date: 2024-08-24T10:00:00+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/mahabodhi-stupa-feature.jpg"
 tags: [
+    "Theology",
     "Madhyamaka",
     "Philosophy",
     "God",
-    "Theology",
     "Logic"
 ]
 weight: 1
@@ -22,9 +22,6 @@ draft: false
     class="m-a"
     caption="Photo by [Sakshi Shail](https://unsplash.com/@sakshishail?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-tall-building-with-flags-flying-in-the-air-Z0FeaV7_ogE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)"
 >}}
-
-
-      
 
 ## Introduction
 
