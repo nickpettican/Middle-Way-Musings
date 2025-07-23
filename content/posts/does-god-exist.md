@@ -12,7 +12,7 @@ tags: [
     "God",
     "Logic"
 ]
-weight: 1
+weight: 3
 draft: false
 ---
 
