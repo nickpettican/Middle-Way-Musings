@@ -5,6 +5,7 @@ excerpt: "Written during the teaching of Nyingtik Yabshi in May 2024, this poem 
 date: 2024-06-14T10:30:00+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/monk-at-the-gate-feature.jpg"
+og_image: "/images/monk-at-the-gate.jpg"
 tags: [
     "Poetry",
     "Renunciation",

@@ -5,6 +5,7 @@ excerpt: "The 'Middle Way' in the Madhyamaka tradition refers not simply to mode
 date: 2023-07-02T13:22:52+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/thien-dang-dLembqRXgas-unsplash-feature.jpg"
+og_image: "/images/thien-dang-dLembqRXgas-unsplash.jpg"
 tags: [
     "Introduction",
     "Reflections",

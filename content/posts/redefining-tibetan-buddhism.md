@@ -5,6 +5,7 @@ excerpt: "Tibetan Buddhism has captivated spiritual seekers with its vibrant exp
 date: 2023-07-05T11:19:49+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/Avalokiteshvara-Indian-Feature.jpeg"
+og_image: "/images/Avalokiteshvara-Indian.jpeg"
 tags: [
     "History",
     "Mahayana",

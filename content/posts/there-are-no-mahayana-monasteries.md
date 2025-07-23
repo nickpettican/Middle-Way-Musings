@@ -5,6 +5,7 @@ excerpt: "When we examine what we call \"Mahāyāna\" monasteries, we discover s
 date: 2025-07-23T16:00:49+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/nalanda-university-feature.jpg"
+og_image: "/images/nalanda-university.jpg"
 tags: [
     "Vinaya",
     "Mahayana",

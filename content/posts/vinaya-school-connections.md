@@ -5,6 +5,7 @@ excerpt: "This diagram represents a simplified view of Buddhist institutional de
 date: 2025-07-11T20:44:41+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/vinaya.png"
+og_image: "/images/vinaya.png"
 tags: [
     "Vinaya"
 ]

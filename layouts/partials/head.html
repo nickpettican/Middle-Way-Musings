@@ -15,15 +15,30 @@
   {{ $site_author := or site.Author.name site.Params.name site.Title }}
   <!---->
   {{ if eq .Kind "page" }}
-  <meta name="description" content="{{ .Summary }}" />
+  <meta name="description" content="{{ or .Params.Excerpt .Summary }}" />
   <meta name="author" content="{{ or .Params.author $site_author }}" />
   {{ else }}
   <!---->
   <meta
     name="description"
-    content="{{ site.Params.description | default (print `A personal blog`) }}"
+    content="{{ site.Params.description | default (print `A place to share thoughts and musings about the Middle Way`) }}"
   />
   <meta name="author" content="{{ $site_author }}" />
+  {{ end }}
+
+  <!-- social media sharing -->
+  {{ $ogImage := .Params.og_image }}
+  {{ $featureImage := .Params.feature_image | default .Params.Feature_Image }}
+  {{ if $ogImage }}
+    <meta property="og:image" content="https://middlewaymusings.com{{ $ogImage }}">
+    <meta name="twitter:image" content="https://middlewaymusings.com{{ $ogImage }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+  {{ else if $featureImage }}
+    <meta property="og:image" content="https://middlewaymusings.com{{ $featureImage }}">
+    <meta name="twitter:image" content="https://middlewaymusings.com{{ $featureImage }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
   {{ end }}
 
   <!-- Styles & Scripts -->

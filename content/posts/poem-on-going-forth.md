@@ -5,6 +5,7 @@ excerpt: "This poem was written during my second Traditional Rain Retreat. It is
 date: 2023-09-11T13:44:10+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/Cutting-His-Hair-feature.jpeg"
+og_image: "/images/Cutting-His-Hair.jpeg"
 tags: [
     "Poetry",
     "Renunciation",

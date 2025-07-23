@@ -5,6 +5,7 @@ excerpt: "Given this text has been translated by enough people, I didn't want to
 date: 2023-08-04T17:13:41+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/Gyalse-Tokme-Zangpo.jpeg"
+og_image: "/images/Gyalse-Tokme-Zangpo.jpeg"
 tags: [
     "Mind training",
     "Translation",

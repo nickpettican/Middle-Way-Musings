@@ -5,6 +5,7 @@ excerpt: "In recent years, the James Webb Space Telescope (JWST) has unveiled di
 date: 2025-06-20T11:33:18+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/glass-z13-feature.jpg"
+og_image: "/images/glass-z13.jpg"
 tags: [
     "Cosmology",
     "Madhyamaka",

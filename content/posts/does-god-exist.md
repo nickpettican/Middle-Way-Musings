@@ -5,6 +5,7 @@ excerpt: "Let's examine the concept of Creator God through the lens of Madhyamak
 date: 2024-08-24T10:00:00+05:30
 author: "Bhikshu Tenpa"
 feature_image: "/images/mahabodhi-stupa-feature.jpg"
+og_image: "/images/mahabodhi-stupa.jpg"
 tags: [
     "Theology",
     "Madhyamaka",
