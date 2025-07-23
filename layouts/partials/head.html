@@ -29,16 +29,35 @@
   <!-- social media sharing -->
   {{ $ogImage := .Params.og_image }}
   {{ $featureImage := .Params.feature_image | default .Params.Feature_Image }}
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ or .Params.Excerpt .Summary }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:logo" content="https://middlewaymusings.com/favicon.png">
   {{ if $ogImage }}
     <meta property="og:image" content="https://middlewaymusings.com{{ $ogImage }}">
-    <meta name="twitter:image" content="https://middlewaymusings.com{{ $ogImage }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ or .Params.Excerpt .Summary }}">
+    <meta name="twitter:image" content="https://middlewaymusings.com{{ $ogImage }}">
   {{ else if $featureImage }}
     <meta property="og:image" content="https://middlewaymusings.com{{ $featureImage }}">
-    <meta name="twitter:image" content="https://middlewaymusings.com{{ $featureImage }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ or .Params.Excerpt .Summary }}">
+    <meta name="twitter:image" content="https://middlewaymusings.com{{ $featureImage }}">
+  {{ else }}
+    <meta property="og:image" content="https://middlewaymusings.com/theme.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ or .Params.Excerpt .Summary }}">
+    <meta name="twitter:image" content="https://middlewaymusings.com/theme.png">
   {{ end }}
 
   <!-- Styles & Scripts -->
@@ -103,11 +122,11 @@
   <!---->
   <!-- {{ template "_internal/google_analytics.html" . }} -->
   <!---->
-  {{ template "_internal/opengraph.html" . }}
+  <!-- {{ template "_internal/opengraph.html" . }} -->
   <!---->
   {{ template "_internal/schema.html" . }}
   <!---->
-  {{ template "_internal/twitter_cards.html" . }}
+  <!-- {{ template "_internal/twitter_cards.html" . }} -->
   <!---->
   {{ end }}
 
