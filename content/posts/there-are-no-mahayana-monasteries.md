@@ -30,17 +30,25 @@ It has become all too common these days to refer to Buddhist monasteries (by whi
 
 The reason why I wrote this article is to break with the misconceived notions about monasticism that I have encountered throughout my time in Buddhist circles. One such notion is that contemporary monastics that follow Mahāyāna have their own Vinaya that has been adapted to this tradition. In fact, such misconception is not surprising given the way that many monastics behave in comparison to their Theravāda counterparts (the reason behind this behaviour will become more apparent later on in the article). Moreover, this misconception further extends to individual subschools of Mahāyāna, leading to mistaken ideas such as that Tibetans have their own endemic Vinaya.
 
-Now, I am not saying that Tibetan monasteries are not Mahāyāna, because *doctrinally* speaking, they are. However, when we examine what we call "Mahāyāna" monasteries we discover something quite surprising to many: they are, *institutionally* speaking, Śrāvaka communities that happen to study and practice based on Mahāyāna literature. The daily activities, ethical rules, and community structures that define monastic life remain obviously Śrāvaka, regardless of which sūtras are studied or which philosophical positions are the focus. Nevertheless, for them it is precisely these *doctrinal* elements that identify them as Mahāyāna, while the *institutional* affiliation remains secondary. This distinction between the institutional and doctrinal layers is the focal point of this article—by understanding these, the question of whether there really are Mahāyāna monasteries becomes simply a matter of which layer one is asking the question about.
+Now, I am not saying that Tibetan monasteries are not Mahāyāna, because *doctrinally* speaking, they are. However, when we examine what we call "Mahāyāna" monasteries we discover something quite surprising to many: they are, *institutionally* speaking, Śrāvaka communities that happen to study and practice based on Mahāyāna literature. The daily activities, ethical rules, and community structures that define monastic life remain obviously Śrāvaka, regardless of which sūtras are studied or which philosophical positions are the focus. 
 
-This understanding has profound practical implications. As someone living within this tradition as a bhikshu, I've witnessed firsthand how these categorical confusions create unnecessary divisions between communities that share fundamental structures and practices. The most noticeable of which happens between the Tibetans and the Theravādins. Therefore, I believe that understanding this relationship could change how Buddhist communities relate to each other, potentially bridging these sectarian divides that exist out of misunderstanding. Thus, in the following sections I will touch on these practical questions of ordination recognition, institutional cooperation, and the very survival of Mahāyāna Buddhism in the modern world.
+Nevertheless, for them it is precisely these *doctrinal* elements that identify them as Mahāyāna, while the *institutional* affiliation remains secondary. This distinction between the institutional and doctrinal layers is the focal point of this article—by understanding these, the question of whether there really are Mahāyāna monasteries becomes simply a matter of which layer one is asking the question about.
+
+This understanding has profound practical implications. As someone living within this tradition as a bhikshu, I've witnessed firsthand how these categorical confusions create unnecessary divisions between communities that share fundamental structures and practices. The most noticeable of which happens between the Tibetans and the Theravādins. 
+
+Therefore, I believe that understanding this relationship could change how Buddhist communities relate to each other, potentially bridging these sectarian divides that exist out of misunderstanding. Thus, in the following sections I will touch on these practical questions of ordination recognition, institutional cooperation, and the very survival of Mahāyāna Buddhism in the modern world.
 
 ## Why Tibetan Monastics Are Śrāvaka
 
-Consider a typical day in what most people would call a "Mahāyāna monastery" in the Tibetan tradition. The monastics wake before dawn, wash their face, gather for prayers before breakfast, and some eat their final meal before noon—following the ancient Śrāvaka prescription against eating after midday. Every full-moon and new-moon, they perform the poṣadha ceremony (sojong in Tibetan) in which they confess their transgressions, and renew their vows. During the summer months, they observe the three-month rain retreat (varṣā in Sanskrit, vāsa in Pali, and yarne in Tibetan), where they take the varṣā vows at the starting ritual and release them at the end of the intensive study and meditation period in between.
+Consider a typical day in what most people would call a "Mahāyāna monastery" in the Tibetan tradition. The monastics wake before dawn, wash their face, gather for prayers before breakfast, and some eat their final meal before noon—following the ancient Śrāvaka prescription against eating after midday. Every full-moon and new-moon, they perform the poṣadha ceremony (uposatha in Pali, and sojong in Tibetan) in which they confess their transgressions, and renew their vows. During the summer months, they observe the three-month rain retreat (varṣā in Sanskrit, vāsa in Pali, and yarne in Tibetan), where they take the varṣā vows at the starting ritual and release them at the end of the intensive study and meditation period in between.
 
-In fact, these monastics have to follow the detailed prescriptions of the Vinaya tradition they inherited from India, the Mūlasarvāstivāda Vinaya. For those not acquainted with the Mūlasarvāstivāda Vinaya, it is an offshoot of the Sthavira Vinaya that emerged from the Second Buddhist Council, from which Theravāda also derives.
+Both traditions maintain the essential poṣadha (confession) structure, though with some variations in practice. In Theravāda communities, monks must confess any disciplinary violations to another monk or the Saṅgha before the Pāṭimokkha recitation, maintaining the Buddha's original emphasis on purification before the ceremony.[^1] While Tibetan monastics follow similar confession procedures, the specific practices have evolved differently within each cultural context.
 
-With the exception of piṇḍapāta (going for alms), the rules are mostly identical, including the vows and precepts, the cutting and wearing of robes, the acceptance and consumption of food, proper conduct toward laypeople and fellow monastics, and the intricate procedures for community living. Tibetan monasteries have disciplinarians (vinayadhara) who enforce rules, abbots (mahācārya) who lead and manage the monastery, and chant masters who lead liturgical functions. Their entire yearly and daily schedule operates according to Mūlasarvāstivāda structures that have remained essentially unchanged for over two millennia.
+In fact, these Tibetan monastics have to follow the detailed prescriptions of the Vinaya tradition they inherited from India, the Mūlasarvāstivāda Vinaya. For those not acquainted with the Mūlasarvāstivāda Vinaya, it is an offshoot of the Sthavira Vinaya that emerged from the Second Buddhist Council, from which Theravāda also derives.
+
+Both traditions maintain the same fundamental Vinaya framework - the core structure of vows and precepts, community governance, and ceremonial observances - though their practical expression varies significantly between cultures. While Theravāda communities maintain stricter adherence to practices like piṇḍapāta (alms rounds) and additional observances, and Tibetan monastics have adapted to different cultural and geographical contexts, both operate within recognizably Śrāvaka institutional structures.
+
+Tibetan monasteries have disciplinarians (vinayadhara) who enforce rules, abbots (mahācārya) who lead and manage the monastery, and chant masters who lead liturgical functions. Their entire yearly and daily schedule operates according to Mūlasarvāstivāda structures that have remained essentially unchanged for over two millennia.
 
 {{< figure
     src="/images/norbu-gyachung.jpg"
@@ -49,17 +57,17 @@ With the exception of piṇḍapāta (going for alms), the rules are mostly iden
     caption="Tibetan monks in Dharamshala, courtesy of [Norbu Gyachung](https://unsplash.com/photos/a-group-of-people-in-red-shirts-I5PsV4qLk5Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)."
 >}}
 
-In other words, their institutional backbone is thoroughly and unmistakably Śrāvaka. Even so, many monastics aren't aware of this or haven't been taught the historical distinction between institutional affiliation (sect) and doctrinal orientation (school)[^1], leading to understandable confusion about their identity. Some don't know they follow Śrāvaka institutional structures, while others resist being called "Śrāvaka" because they want to be seen as Mahāyāna, not realising that these categories operate on different dimensions entirely.
+In other words, their institutional backbone is thoroughly and unmistakably Śrāvaka. Even so, many monastics aren't aware of this or haven't been taught the historical distinction between *institutional* affiliation (sect) and *doctrinal* orientation (school)[^2], leading to understandable confusion about their identity. Some don't know they follow Śrāvaka institutional structures, while others resist being called "Śrāvaka" because they want to be seen as Mahāyāna, not realising that these categories operate on different dimensions entirely.
 
 This misunderstanding has real and sometimes negative consequences. When Tibetan monastics encounter Theravāda communities, they're often treated as institutional foreigners despite sharing remarkably similar Vinaya traditions. Since they both emerged from the Sthavira Vinaya, they share far more institutional DNA than their modern categorical separation would suggest. The same can be said about the Dharmaguptaka Vinaya in East Asia. In fact, the Mūlasarvāstivāda is slightly stricter given that it contains mostly the same vows that the Theravāda Vinaya has (give or take a handful) while containing 26 more.
 
-Yet institutional barriers persist. Theravāda monks may refuse to share robes with their Tibetan counterparts or decline to share food with them, treating them as followers of an alien tradition. The irony is that some Theravāda communities differ significantly from others in doctrinal emphasis yet remain institutionally unified, while Tibetan monastics with nearly identical institutional practices are treated as foreigners. For instance, some Theravāda communities study Abhidhamma literature extensively, which is a sharp contrast to traditions such as the Thai Forest Tradition, which gives Abhidhamma minimal importance.
+Yet institutional barriers persist. Theravāda monks may refuse to share robes with their Tibetan counterparts or decline to share food with them, treating them as followers of an alien tradition. The irony is that some Theravāda communities differ significantly from others in doctrinal emphasis yet remain institutionally unified, while Tibetan monastics with closely related institutional practices are treated as foreigners. For instance, some Theravāda communities study Abhidhamma literature extensively, which is a sharp contrast to traditions such as the Thai Forest Tradition, which gives Abhidhamma minimal importance.
 
 Meanwhile, Vietnamese communities like those inspired by Thich Nhat Hanh follow their Dharmaguptaka Vinaya so carefully that Theravāda monks might readily share robes and food with them, despite being doctrinally Mahāyāna. Given that the Mūlasarvāstivāda Vinaya is historically just as close to Theravāda as the Dharmaguptaka tradition, we would expect more institutional cooperation between these schools. Instead, sectarian categories persist based on perceived doctrinal differences and visible behaviour rather than actual institutional relationships.
 
 ## What, If Anything, Is Mahāyāna?
 
-This question, as a reference to scholar Jonathan Silk's influential study, cuts to the heart of our categorical conundrum.[^1] Silk and other researchers have explained that Mahāyāna was never an institutional category in ancient India. Instead, it was a doctrinal, literary and practice-based movement that spread across existing monastic sects, much like a religious revival that influenced multiple types of monastic institutions without creating new institutional structures (however, it is worth mentioning that while Tibetans claim that there once existed a purely Mahāyāna Vinaya, no scriptures or evidence has surfaced till date).
+This question, as a reference to scholar Jonathan Silk's influential study, cuts to the heart of our categorical conundrum.[^3] Silk and other researchers have explained that Mahāyāna was never an institutional category in ancient India. Instead, it was a doctrinal, literary and practice-based movement that spread across existing monastic sects, much like a religious revival that influenced multiple types of monastic institutions without creating new institutional structures (however, it is worth mentioning that while Tibetans claim that there once existed a purely Mahāyāna Vinaya, no scriptures or evidence has surfaced till date).
 
 {{< figure
     src="/images/bamiyan-paintings.jpeg"
@@ -68,21 +76,21 @@ This question, as a reference to scholar Jonathan Silk's influential study, cuts
     caption="Paintings of Bamiyan Valley."
 >}}
 
-The crucial distinction here was first clearly articulated by Louis de La Vallée Poussin nearly a century ago. Buddhist sects (nikāya) were defined by their Vinaya—their monastic rules, ordination lineages, and institutional procedures. Schools (vāda), on the other hand, were defined by doctrinal characteristics, philosophical positions, and interpretive approaches to Buddhist teachings.[^2] A monastery's sectarian or institutional identity was determined by which Vinaya its monks followed and from whom they received ordination, not by which sūtras they studied, which philosophical positions they held, or which meditation practices they emphasised.
+The crucial distinction here was first clearly articulated by Louis de La Vallée Poussin nearly a century ago. Buddhist sects (nikāya) were defined by their Vinaya—their monastic rules, ordination lineages, and institutional procedures. Schools (vāda), on the other hand, were defined by doctrinal characteristics, philosophical positions, and interpretive approaches to Buddhist teachings.[^4] A monastery's sectarian or institutional identity was determined by which Vinaya its monks followed and from whom they received ordination, not by which sūtras they studied, which philosophical positions they held, or which meditation practices they emphasised.
 
 La Vallée Poussin observed that one enters a nikāya or sect through a formal ecclesiastical act of ordination (upasampadā karmavācanā), creating an institutional identification that cannot be changed without re-ordination. Schools, by contrast, represent intellectual and spiritual affiliations that can evolve throughout a monastic's career. A monk might study Sarvāstivāda Abhidharma in his youth, encounter Madhyamaka philosophy in middle age, and practice Pure Land devotions in old age, while maintaining the same sectarian identity throughout his life.
 
-In fact, historical evidence strongly supports this institutional interpretation. The Chinese pilgrim Yijing, who spent over two decades throughout India and Southeast Asia, wrote in 691 CE what may be our clearest ancient definition of the Mahāyāna-Hīnayāna distinction: "Those who worship the Bodhisattvas and read the Mahāyāna Sūtras are called the Mahāyānists, while those who do not perform these are called the Hīnayānists."[^3] Crucially, Yijing noted in the same citation that individual sects could belong to either vehicle—the same monastic community might have both Mahāyāna and non-Mahāyāna practitioners under the same roof.
+In fact, historical evidence strongly supports this institutional interpretation. The Chinese pilgrim Yijing, who spent over two decades throughout India and Southeast Asia, wrote in 691 CE what may be our clearest ancient definition of the Mahāyāna-Hīnayāna distinction: "Those who worship the Bodhisattvas and read the Mahāyāna Sūtras are called the Mahāyānists, while those who do not perform these are called the Hīnayānists."[^5] Crucially, Yijing noted in the same citation that individual sects could belong to either vehicle—the same monastic community might have both Mahāyāna and non-Mahāyāna practitioners under the same roof.
 
-As the nineteenth-century scholar Junjirō Takakusu observed in his translation of Yijing's work, "I-Tsing's statement seems to imply that one and the same school adheres to the Hīnayāna in one place and to the Mahāyāna in another; a school does not exclusively belong to the one or the other."[^4]
+As the nineteenth-century scholar Junjirō Takakusu observed in his translation of Yijing's work, "I-Tsing's statement seems to imply that one and the same school adheres to the Hīnayāna in one place and to the Mahāyāna in another; a school does not exclusively belong to the one or the other."[^6]
 
-Auguste Barth, analysing Yijing's observations in detail, concluded that "there were Mahāyānists and Hīnayānists in all or in almost all the schools."[^5] He described Mahāyāna as "a religious movement with rather vague limits, at the same time an internal modification of primitive Buddhism and a series of additions to this same Buddhism, alongside of which the old foundations were able to subsist more or less intact."
+Auguste Barth, analysing Yijing's observations in detail, concluded that "there were Mahāyānists and Hīnayānists in all or in almost all the schools."[^7] He described Mahāyāna as "a religious movement with rather vague limits, at the same time an internal modification of primitive Buddhism and a series of additions to this same Buddhism, alongside of which the old foundations were able to subsist more or less intact."
 
-Jean Przyluski extended this analysis, arguing that rather than representing a single institutional development, Mahāyāna should be understood as multiple concurrent movements: "One can also speak, up to a certain point, of a Sarvāstivādin Mahāyāna, a Mahāsāṅghika Mahāyāna, and so on."[^6]
+Jean Przyluski extended this analysis, arguing that rather than representing a single institutional development, Mahāyāna should be understood as multiple concurrent movements: "One can also speak, up to a certain point, of a Sarvāstivādin Mahāyāna, a Mahāsāṅghika Mahāyāna, and so on."[^8]
 
 This scholarly consensus suggests that terms like "Mahāyāna monastery" represent category errors. What we're actually describing are Sarvāstivāda monasteries that study Mahāyāna literature, or Dharmaguptaka monasteries that practice Bodhisattva ideals, or Mūlasarvāstivāda monasteries that emphasise Madhyamaka philosophy.
 
-The situation becomes clearer when we consider it through the lens of what Kenneth Bailey calls "polythetic classification"—a method that allows objects to be grouped based on shared characteristics without requiring any single feature to be present in all members of the group.[^7] Rather than forcing Buddhist communities into rigid either/or categories, we can recognise that they participate in multiple overlapping traditions simultaneously.
+The situation becomes clearer when we consider it through the lens of what Kenneth Bailey calls "polythetic classification"—a method that allows objects to be grouped based on shared characteristics without requiring any single feature to be present in all members of the group.[^9] Rather than forcing Buddhist communities into rigid either/or categories, we can recognise that they participate in multiple overlapping traditions simultaneously.
 
 ## How Śrāvakayāna and Mahāyāna Coexist
 
@@ -107,9 +115,9 @@ This means that a bodhisattva who maintains bodhicitta can recover quickly from 
 
 Moreover, it demonstrates that what we call "Mahāyāna monastics" are actually śrāvaka monastics who have taken additional bodhisattva vows. They remain structurally Śrāvaka—following the Prātimokṣa, living by Vinaya rules, participating in poṣadha ceremonies, maintaining ordination lineages—whilst aspiring towards the Mahāyāna ideal of universal liberation.
 
-La Vallée Poussin captured this relationship precisely: "From the disciplinary point of view, the Mahāyāna is not autonomous. The adherents of the Mahāyāna are monks of the Mahāsāṅghika, Dharmaguptaka, Sarvāstivādin, Theravāda and other traditions, who undertake the vows and rules of the bodhisattvas without abandoning the monastic vows and rules fixed by the tradition with which they are associated on the day of their Upasampadā."[^8]
+La Vallée Poussin captured this relationship precisely: "From the disciplinary point of view, the Mahāyāna is not autonomous. The adherents of the Mahāyāna are monks of the Mahāsāṅghika, Dharmaguptaka, Sarvāstivādin, Theravāda and other traditions, who undertake the vows and rules of the bodhisattvas without abandoning the monastic vows and rules fixed by the tradition with which they are associated on the day of their Upasampadā."[^10]
 
-He further observed: "All the Mahāyānists who are pravrajita [renunciants] renounced the world entering into one of the ancient sects.—A monk, submitting to the disciplinary code (Vinaya) of the sect into which he was received, is 'touched by grace' and undertakes the resolution to become a buddha. Will he reject his Vinaya?—'If he thinks or says "A future buddha has nothing to do with learning or observing the law of the Vehicle of Śrāvakas," he commits a fault of pollution (kliṣṭa āpatti).'"[^9]
+He further observed: "All the Mahāyānists who are pravrajita [renunciants] renounced the world entering into one of the ancient sects.—A monk, submitting to the disciplinary code (Vinaya) of the sect into which he was received, is 'touched by grace' and undertakes the resolution to become a buddha. Will he reject his Vinaya?—'If he thinks or says "A future buddha has nothing to do with learning or observing the law of the Vehicle of Śrāvakas," he commits a fault of pollution (kliṣṭa āpatti).'"[^11]
 
 Think of it this way: if institutional structure is like the skeleton of a body, then the Śrāvaka Vinaya provides the bones that give shape to monastic life. Whether that body has "Mahāyāna skin" or "Theravāda skin" is, in some sense, surface detail. The fundamental architecture—the daily rhythms, ethical framework, community structures, and ordination lineages—remains recognisably and necessarily Śrāvaka.
 
@@ -119,7 +127,7 @@ This understanding helps explain why contemporary "Mahāyāna" monastics can str
 
 ## Theravādin Mahāyāna in Sri Lanka
 
-The artificial nature of our contemporary Buddhist categories becomes even clearer when we examine one of the most remarkable yet underappreciated chapters in Buddhist history: the eight centuries when Theravādin Mahāyāna was the dominant form of Buddhism in Sri Lanka.[^10] [^11] This isn't simply an interesting historical footnote—it's powerful evidence that the institutional compatibility I'm arguing for was once the lived reality for thousands or millions of practitioners.
+The artificial nature of our contemporary Buddhist categories becomes even clearer when we examine one of the most remarkable yet underappreciated chapters in Buddhist history: the eight centuries when Theravādin Mahāyāna was the dominant form of Buddhism in Sri Lanka.[^12] [^13] This isn't simply an interesting historical footnote—it's powerful evidence that the institutional compatibility I'm arguing for was once the lived reality for thousands or millions of practitioners.
 
 {{< figure
     src="/images/sri-lanka-monks-sidath-vimukthi.jpg"
@@ -128,13 +136,15 @@ The artificial nature of our contemporary Buddhist categories becomes even clear
     caption="Sri Lankan monks, courtesy of [Sidath Vimukthi](https://unsplash.com/photos/a-group-of-monks-walking-through-a-forest-9wiN3h6lBZ4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)."
 >}}
 
-Most contemporary Buddhists, whether Theravāda or Mahāyāna, remain unaware that what we now call "Theravāda Buddhism" actually encompassed three distinct subdivisions throughout most of Sri Lankan Buddhist history: the Mahāvihāra, Abhayagiri, and Jetavana traditions.[^12] All three were initially based in Anuradhapura, the ancient capital, and all three followed Theravāda Vinaya and maintained Theravāda ordination lineages. Yet the Abhayagiri and Jetavana traditions were thoroughly Mahāyāna in their doctrinal orientation and practice.
+Most contemporary Buddhists, whether Theravāda or Mahāyāna, remain unaware that what we now call "Theravāda Buddhism" actually encompassed three distinct subdivisions throughout most of Sri Lankan Buddhist history: the Mahāvihāra, Abhayagiri, and Jetavana traditions.[^14] All three were initially based in Anuradhapura, the ancient capital, and all three followed Theravāda Vinaya and maintained Theravāda ordination lineages. Yet the Abhayagiri and Jetavana traditions were thoroughly Mahāyāna in their doctrinal orientation and practice.
 
-The Mahāvihāra tradition, which modern Theravāda considers its primary ancestor, was actually the smallest and least influential of the three for most of this period. According to the historical records, they were the ones who considered Mahāyāna doctrines such as Lokottaravāda ("transcendentalism") as heretical and viewed Mahāyāna sutras as counterfeit scriptures.[^13] But they were the minority position, not the mainstream.
+The Mahāvihāra tradition, which modern Theravāda considers its primary ancestor, was actually the smallest and least influential of the three for most of this period. According to the historical records, they were the ones who considered Mahāyāna doctrines such as Lokottaravāda ("transcendentalism") as heretical and viewed Mahāyāna sutras as counterfeit scriptures.[^15] But they were the minority position, not the mainstream.
 
-During the reign of King Mahasena (277-304 CE) who supported Mahāyāna Buddhism, the Theravāda Mahāvihāra tradition was actively repressed when they refused to accept Mahāyāna teachings. Mahasena went so far as to destroy buildings of the Mahāvihāra complex to build up Abhayagiri and establish the new Jetavana monastery. Following this royal intervention, Abhayagiri emerged as the largest and most influential Buddhist tradition on the island.[^14] The Mahāvihāra tradition would not regain its dominant position until the Polonnaruwa period in 1055 CE—over seven centuries later. When the Chinese monk Faxian visited Sri Lanka in the early 5th century, he found clear evidence of this institutional diversity thriving within shared frameworks. He noted 5,000 monks at Abhayagiri, 3,000 at the Mahāvihāra, and 2,000 at the Cetiyapabbatavihāra.[^14] Crucially, Faxian described Mahāyāna and Śrāvakayāna monastics living side by side in these monasteries, sharing facilities whilst pursuing different doctrinal emphases.
+During the reign of King Mahasena (277-304 CE) who supported Mahāyāna Buddhism, the Theravāda Mahāvihāra tradition was actively repressed when they refused to accept Mahāyāna teachings. Mahasena went so far as to destroy buildings of the Mahāvihāra complex to build up Abhayagiri and establish the new Jetavana monastery. Following this royal intervention, Abhayagiri emerged as the largest and most influential Buddhist tradition on the island.[^16] The Mahāvihāra tradition would not regain its dominant position until the Polonnaruwa period in 1055 CE—over seven centuries later. 
 
-This coexistence continued to flourish and expand. By the 8th century, both Mahāyāna and the esoteric Vajrayāna forms of Buddhism were being practised openly within Sri Lankan Theravāda institutions. Two Indian monks responsible for propagating Vajrayāna Buddhism in China (which then moved to Japan and became the Shingon School), Vajrabodhi and Amoghavajra, visited the island during this time and found thriving Vajrayāna communities operating within Theravāda monastic frameworks.[^14] Abhayagiri remained an influential centre for the study of Theravāda Mahāyāna and Vajrayāna thought from the reign of Gajabahu I until the 12th century, hosting important Buddhist scholars working in both Sanskrit and Pāli.
+When the Chinese monk Faxian visited Sri Lanka in the early 5th century, he found clear evidence of this institutional diversity thriving within shared frameworks. He noted 5,000 monks at Abhayagiri, 3,000 at the Mahāvihāra, and 2,000 at the Cetiyapabbatavihāra.[^16] Crucially, Faxian described Mahāyāna and Śrāvakayāna monastics living side by side in these monasteries, sharing facilities whilst pursuing different doctrinal emphases.
+
+This coexistence continued to flourish and expand. By the 8th century, both Mahāyāna and the esoteric Vajrayāna forms of Buddhism were being practised openly within Sri Lankan Theravāda institutions. Two Indian monks responsible for propagating Vajrayāna Buddhism in China (which then moved to Japan and became the Shingon School), Vajrabodhi and Amoghavajra, visited the island during this time and found thriving Vajrayāna communities operating within Theravāda monastic frameworks.[^16] Abhayagiri remained an influential centre for the study of Theravāda Mahāyāna and Vajrayāna thought from the reign of Gajabahu I until the 12th century, hosting important Buddhist scholars working in both Sanskrit and Pāli.
 
 The key point that revolutionises our understanding is this: these weren't "Mahāyāna monks" who happened to be in Sri Lanka—they were Theravāda monks who practised Mahāyāna and Vajrayāna. They followed the same Theravāda Vinaya, participated in the same ordination lineages, observed the same institutional rhythms, and maintained the same community structures as their Mahāvihāra colleagues. This wasn't an uncomfortable compromise—it was how Theravāda Buddhism functioned for the majority of its Sri Lankan history.
 
@@ -142,9 +152,11 @@ The key point that revolutionises our understanding is this: these weren't "Mah�
 
 This historical reality demolishes several contemporary assumptions. First, it shows that Mahāyāna practice is not inherently incompatible with Theravāda institutional structures—quite the opposite, it flourished within them for centuries. Second, it demonstrates that institutional foundations were strong enough to support remarkable doctrinal diversity without fragmenting into separate organisations. Third, it reveals that what we consider "traditional Theravāda" today represents only one strand of a historically much more diverse tradition.
 
-From my own experience in a contemporary Tibetan monastery that follows Mūlasarvāstivāda Vinaya while identifying as "Mahāyāna," I can attest that this historical pattern of institutional unity continues. We follow practically identical daily rhythms to any Theravāda community (except for piṇḍapāta). The difference lies not in our discipline but in our motivational framework—we embrace what the Upāli Sūtra calls the "long duration" training that allows us to remain in saṃsāra for the benefit of beings rather than seeking individual liberation.
+From my own experience in a contemporary Tibetan monastery that follows Mūlasarvāstivāda Vinaya while identifying as "Mahāyāna," I can attest that this historical pattern of institutional unity continues. We follow fundamentally similar institutional patterns to Theravāda communities, though our daily practices differ in various ways—they maintain stricter observances like piṇḍapāta while the Tibetans had to adapt to a different cultural contexts.
 
-When I interact with Theravāda monastics, the institutional similarities are immediately apparent to both sides. We share the same concerns about maintaining Vinaya standards, the same challenges of community governance, the same rhythms of study and meditation. The barriers between us are categorical and political rather than experiential and practical.
+The difference lies not in our discipline but in our motivational framework—we embrace what the Upāli Sūtra calls the "long duration" training that allows us to remain in saṃsāra for the benefit of beings rather than seeking individual liberation.
+
+When I interact with Theravāda monastics, certain fundamental institutional concerns become apparent to both sides. We share similar challenges around maintaining monastic discipline within our respective traditions, questions of community governance, and the basic rhythms of monastic life - though these are expressed quite differently in our respective contexts. While our daily practices and cultural adaptations vary considerably, the barriers between us often seem more categorical and political than they need to be given our shared institutional foundations.
 
 This suggests profound implications for contemporary Buddhist cooperation. If Theravāda Vinaya could once provide the framework for Mahāyāna and even Vajrayāna practice, then the compatibility exists in principle. The Sri Lankan precedent shows it worked in practice for centuries. What changed wasn't the inherent compatibility of these elements, but political and cultural factors that eventually privileged orthodox exclusivity over inclusive diversity.
 
@@ -152,9 +164,9 @@ For Western Buddhist communities, this historical evidence is particularly relev
 
 ## Why the Śrāvakayāna Is Vital
 
-Highlighting this coexistence and the institutional foundation of these monasteries isn't merely historical curiosity—it may be essential for Mahāyāna's (and Buddhism) survival and transmission. While this topic deserves its own article, it ties in well with highlighting the need for building good relationships between the surviving monastic traditions. The Buddha himself was explicit about the importance of monasticism. According to the Mahāparinibbāna-sutta, he proclaimed that he would not pass away until he had established "wise, well-trained, and self-confident" members of all four assemblies: bhikshus, bhikshunīs, male lay disciples, and female lay disciples.[^15] The text makes this requirement unmistakably clear: having these four assemblies is what distinguishes a Buddhist tradition from other religious systems.
+Highlighting this coexistence and the institutional foundation of these monasteries isn't merely historical curiosity—it may be essential for Mahāyāna's (and Buddhism) survival and transmission. While this topic deserves its own article, it ties in well with highlighting the need for building good relationships between the surviving monastic traditions. The Buddha himself was explicit about the importance of monasticism. According to the Mahāparinibbāna-sutta, he proclaimed that he would not pass away until he had established "wise, well-trained, and self-confident" members of all four assemblies: bhikshus, bhikshunīs, male lay disciples, and female lay disciples.[^17] The text makes this requirement unmistakably clear: having these four assemblies is what distinguishes a Buddhist tradition from other religious systems.
 
-The Aṅguttara-nikāya reinforces this by describing the unfortunate condition of being reborn in a "border country"—defined specifically as a place where the four-fold sangha of Buddhist disciples cannot be found.[^16] This suggests that without proper monastic communities, a region becomes spiritually impoverished, regardless of whatever other religious activities might occur there.
+The Aṅguttara-nikāya reinforces this by describing the unfortunate condition of being reborn in a "border country"—defined specifically as a place where the four-fold sangha of Buddhist disciples cannot be found.[^18] This suggests that without proper monastic communities, a region becomes spiritually impoverished, regardless of whatever other religious activities might occur there.
 
 The historical evidence supports what Buddha said quite clearly. Buddhism disappeared entirely from vast regions where it once flourished: Afghanistan, Pakistan, Central Asia, India, and Indonesia. These were once great Buddhist countries where you will find a great amount of archeological evidence that Mahāyāna in particular thrived there. However, despite supporting thriving Buddhist cultures for centuries, Buddhism vanished, whilst other traditions—Zoroastrianism, Hinduism, Islam, and other local beliefs—survived in the same regions.
 
@@ -165,7 +177,9 @@ The historical evidence supports what Buddha said quite clearly. Buddhism disapp
     caption="Sri Lankan ruins, courtesy of [Thushal Madhushankha](https://unsplash.com/photos/man-wearing-white-shirt-in-front-of-statue-2fjBiIyH4RM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)."
 >}}
 
-There's a clear pattern here when we examine the mechanism of disappearance: Buddhism's decline invariably coincided with the collapse of monastic institutions. For instance, the demise of Buddhism in India started with the Mughal invasions destroying hundreds of Buddhist monasteries and slaughtering the monastics,[^17] further exacerbated by cutting their local patronage,[^18] alongside the appropriation and transformation of these monasteries by Brahmins who had accepted Muslim rule in exchange for the extinction of Buddhism.[^19] With the monastics gone, these Brahmins got their wish. The institutional framework wasn't just important—it was the transmission mechanism. Without ordained communities maintaining textual traditions, performing rituals, and training new generations, the entire edifice collapsed regardless of how many lay practitioners remained.
+There's a clear pattern here when we examine the mechanism of disappearance: Buddhism's decline invariably coincided with the collapse of monastic institutions. For instance, the demise of Buddhism in India started with the Mughal invasions destroying hundreds of Buddhist monasteries and slaughtering the monastics,[^19] further exacerbated by cutting their local patronage,[^20] alongside the appropriation and transformation of these monasteries by Brahmins who had accepted Muslim rule in exchange for the extinction of Buddhism.[^21] With the monastics gone, these Brahmins got their wish. 
+
+The institutional framework wasn't just important—it was the transmission mechanism. Without ordained communities maintaining textual traditions, performing rituals, and training new generations, the entire edifice collapsed regardless of how many lay practitioners remained.
 
 Even where Buddhist lay communities persisted for a time after monastic decline, they gradually lost access to proper teachings, ordination lineages, and institutional memory. The pattern repeats across geography and time: institutional collapse guarantees religious disappearance.
 
@@ -181,11 +195,13 @@ The key insight is that Śrāvaka institutional frameworks aren't obstacles to M
 
 ## Conclusion: Recognition and Reconciliation
 
-In conclusion, let me revisit the title of this article and pose the question: are there any Mahāyāna monasteries? Well, *doctrinally*, yes. *Institutionally*, no—and this is the main point. By looking at it through the institutional lens, the reality is that a "Mahāyāna monastery" is a community of Śrāvaka monastics studying Mahāyāna literature and cultivating bodhicitta. And this actually represents one of Buddhism's most successful institutional innovations. These Śrāvaka institutions, while being doctrinally Mahāyāna and often even Vajrayāna, still operate within ancient frameworks of Vinaya discipline, with the same daily rhythms, and community governance.
+In conclusion, let me revisit the title of this article and pose the question: are there any Mahāyāna monasteries? Well, *doctrinally*, yes. *Institutionally*, no—and this is the main point. By looking at it through the institutional lens, the reality is that a "Mahāyāna monastery" is a community of Śrāvaka monastics studying Mahāyāna literature and cultivating bodhicitta. And this actually represents one of Buddhism's most successful institutional innovations. These Śrāvaka institutions, while being doctrinally Mahāyāna and probably even Vajrayāna, still operate within ancient frameworks of Vinaya discipline, with the similar institutional patterns, and community governance, though adapted to different contexts.
 
 Understanding this institutional-doctrinal distinction is essential not only for properly comprehending how Buddhist monasteries actually function, but for grasping the nature of Mahāyāna itself. Historical evidence shows that Mahāyāna was never an independent institutional category but rather a doctrinal and practice-based movement that flourished within existing Śrāvaka frameworks. This understanding doesn't diminish anyone's spiritual aspirations; rather, it reveals the elegant way Buddhist institutions have always adapted to support diverse spiritual goals within proven structural foundations.
 
-For too long, Buddhist communities have allowed superficial categorical differences to obscure fundamental institutional similarities. Theravāda and Tibetan monastics share far more in common—in their vows, daily practice, ethical discipline, community governance, and spiritual methodology—than either tradition typically acknowledges. Both the Mūlasarvāstivāda and Theravāda lineages trace back to the same Sthavira school, sharing remarkably similar Vinaya traditions. Even East Asian "Mahāyāna" monastics, though they follow the Dharmaguptaka Vinaya and haven't been a major focus here, descend institutionally from the same ancient Śrāvaka heritage.
+For too long, Buddhist communities have allowed superficial categorical differences to obscure fundamental institutional similarities. Theravāda and Tibetan monastics share far more in common—in their fundamental vows, institutional frameworks, ethical foundations, community governance structures, and basic spiritual methodology—than either tradition typically acknowledges.
+
+Both the Mūlasarvāstivāda and Theravāda lineages trace back to the same Sthavira school, sharing remarkably similar Vinaya traditions. And, while the East Asian "Mahāyāna" monastics who follow Dharmaguptaka Vinaya have not been a big focus here, it's worth mentioning that institutionally they descend from the same ancient Śrāvaka heritage.
 
 This recognition offers particular hope for Mahāyāna's survival in the contemporary West, where traditional institutional transmission faces unprecedented challenges. As monastic standards have deteriorated in some contemporary "Mahāyāna" communities, collaboration with established Theravāda institutions—which have maintained rigorous Vinaya observance—could provide the institutional stability that Mahāyāna requires to flourish. Rather than viewing this as a compromise, we might see it as returning to Buddhism's historical norm.
 
@@ -200,6 +216,8 @@ The monastery exists. The Dharma exists. The Saṅgha exists. In recognising tha
 ---
 
 ## Bibliography
+
+Thanissaro Bhikkhu (trans.). *The Buddhist Monastic Code, Volumes I & II*. Available at dhammatalks.org/vinaya/
 
 Silk, Jonathan A. "What, If Anything, Is Mahāyāna Buddhism? Problems of Definitions and Classifications." *Numen* 49, no. 4 (2002): 355-405.
 
@@ -235,22 +253,44 @@ Fogelin, Lars (2015). *An Archaeological History of Indian Buddhism*. Oxford Uni
 
 Verardi, Giovanni (2011). *Hardships and Downfall of Buddhism in India*. Manohar Publishers & Distributors.
 
-[^1]: Silk, "What, If Anything, Is Mahāyāna Buddhism?" 355-405.
-[^2]: La Vallée Poussin, "Notes Bouddhiques XVIII," 20-39.
-[^3]: Takakusu, *A Record of the Buddhist Religion*, 14-15.
-[^4]: Takakusu, *A Record of the Buddhist Religion*, xxii-xxiii.
-[^5]: Barth, "Le Pèlerin Chinois I-Tsing," 448.
-[^6]: Przyluski, *Le Council de Rājagrha*, 361-362.
-[^7]: Bailey, *Typologies and Taxonomies*, 6-7.
-[^8]: La Vallée Poussin, "Notes Bouddhiques XVIII," 32-33.
-[^9]: La Vallée Poussin, "Notes Bouddhiques XVIII," 25.
-[^10]: de Silva, K. M. *A History of Sri Lanka* (2nd ed.).
-[^11]: Jerryson, Michael K. *The Oxford Handbook of Contemporary Buddhism*, page 17.
-[^12]: Warder, A.K. *Indian Buddhism*.
-[^13]: Werner et al. *The Bodhisattva Ideal: Essays on the Emergence of Mahayana*.
-[^14]: Hirakawa, Akira. *A History of Indian Buddhism: From Śākyamuni to Early Mahāyāna*.
-[^15]: *Dīgha-nikāya* II 104.
-[^16]: *Aṅguttara-nikāya* IV 226.
-[^17]: Eraly, *The Age of Wrath: A History of the Delhi Sultanate*.
-[^18]: Fogelin, *An Archaeological History of Indian Buddhism*.
-[^19]: Verardi, *Hardships and Downfall of Buddhism in India*.
+[^1]: Thanissaro Bhikkhu (trans.). *The Buddhist Monastic Code, Volumes I & II*. Available at dhammatalks.org/vinaya/
+
+[^2]: Silk, "What, If Anything, Is Mahāyāna Buddhism?" 355-405.
+
+[^3]: Silk, "What, If Anything, Is Mahāyāna Buddhism?" 355-405.
+
+[^4]: La Vallée Poussin, "Notes Bouddhiques XVIII," 20-39.
+
+[^5]: Takakusu, *A Record of the Buddhist Religion*, 14-15.
+
+[^6]: Takakusu, *A Record of the Buddhist Religion*, xxii-xxiii.
+
+[^7]: Barth, "Le Pèlerin Chinois I-Tsing," 448.
+
+[^8]: Przyluski, *Le Council de Rājagrha*, 361-362.
+
+[^9]: Bailey, *Typologies and Taxonomies*, 6-7.
+
+[^10]: La Vallée Poussin, "Notes Bouddhiques XVIII," 32-33.
+
+[^11]: La Vallée Poussin, "Notes Bouddhiques XVIII," 25.
+
+[^12]: de Silva, K. M. *A History of Sri Lanka* (2nd ed.).
+
+[^13]: Jerryson, Michael K. *The Oxford Handbook of Contemporary Buddhism*, page 17.
+
+[^14]: Warder, A.K. *Indian Buddhism*.
+
+[^15]: Werner et al. *The Bodhisattva Ideal: Essays on the Emergence of Mahayana*.
+
+[^16]: Hirakawa, Akira. *A History of Indian Buddhism: From Śākyamuni to Early Mahāyāna*.
+
+[^17]: *Dīgha-nikāya* II 104.
+
+[^18]: *Aṅguttara-nikāya* IV 226.
+
+[^19]: Eraly, *The Age of Wrath: A History of the Delhi Sultanate*.
+
+[^20]: Fogelin, *An Archaeological History of Indian Buddhism*.
+
+[^21]: Verardi, *Hardships and Downfall of Buddhism in India*.
