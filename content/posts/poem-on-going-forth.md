@@ -3,7 +3,7 @@ title: "Reflections on Going Forth | རབ་བྱུང་ཞིག་གི�
 subtitle: "Reflections to generate the mind of \"renunciation\""
 excerpt: "This poem was written during my second Traditional Rain Retreat. It is a reflection to generate the mind of \"renunciation\", although the correct word would be emergence or going forth. It explores..."
 date: 2023-09-11T13:44:10+05:30
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 feature_image: "/images/Cutting-His-Hair-feature.jpeg"
 og_image: "/images/Cutting-His-Hair.jpeg"
 tags: [

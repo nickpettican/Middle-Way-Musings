@@ -3,7 +3,7 @@ title: "Vinaya Schools Network Diagram"
 subtitle: "A diagram representing the development of monastic institutions"
 excerpt: "This diagram represents a simplified view of Buddhist institutional development. The actual historical development was likely more complex and non-linear though..."
 date: 2025-07-11T20:44:41+05:30
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 feature_image: "/images/vinaya.png"
 og_image: "/images/vinaya.png"
 tags: [

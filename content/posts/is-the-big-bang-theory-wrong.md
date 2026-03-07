@@ -3,7 +3,7 @@ title: "Is the Big Bang Theory Wrong?"
 subtitle: "Challenging the Foundation of Modern Cosmology"
 excerpt: "In recent years, the James Webb Space Telescope (JWST) has unveiled discoveries that have shaken the foundations of our cosmic understanding. Here we will use Madhyamaka logic to challenge it even further..."
 date: 2025-06-20T11:33:18+05:30
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 feature_image: "/images/glass-z13-feature.jpg"
 og_image: "/images/glass-z13.jpg"
 tags: [

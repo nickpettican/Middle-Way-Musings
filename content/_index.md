@@ -1,4 +1,4 @@
 ---
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 ---
 

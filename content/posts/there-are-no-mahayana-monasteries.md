@@ -3,7 +3,7 @@ title: "There Are No Mahayana Monasteries"
 subtitle: "At least, not in the way we think"
 excerpt: "When we examine what we call \"Mahāyāna\" monasteries, we discover something quite surprising to many: they are, institutionally speaking, Śrāvaka communities that happen to study and practice based on Mahāyāna literature..."
 date: 2025-07-23T16:00:49+05:30
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 feature_image: "/images/nalanda-university-feature.jpg"
 og_image: "/images/nalanda-university.jpg"
 tags: [

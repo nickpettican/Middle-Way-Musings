@@ -3,7 +3,7 @@ title: "Welcome to Middle Way Musings"
 subtitle: "Reflections from a Monastic Path"
 excerpt: "The 'Middle Way' in the Madhyamaka tradition refers not simply to moderation, but to a profound philosophical position that avoids the extremes of eternalism and nihilism—neither asserting that phenomena inherently exist nor claiming they are utterly non-existent..."
 date: 2023-07-02T13:22:52+05:30
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 feature_image: "/images/thien-dang-dLembqRXgas-unsplash-feature.jpg"
 og_image: "/images/thien-dang-dLembqRXgas-unsplash.jpg"
 tags: [

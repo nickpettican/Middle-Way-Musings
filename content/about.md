@@ -2,7 +2,7 @@
 title: "About Middle Way Musings"
 date: 2023-07-03T10:08:13+05:30
 description: "Exploring enlightenment through Buddhist logic. Challenging perspectives, embracing wisdom and enquiry. Unravelling the tapestry of reality together."
-author: "Bhikshu Tenpa"
+author: "Tenpa Bhikshu"
 aliases: ["about"]
 comments: false
 draft: false

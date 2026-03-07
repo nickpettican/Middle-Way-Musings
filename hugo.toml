@@ -23,7 +23,7 @@ paginate = 10
 
 [params]
   # meta
-  description = "Exploring enlightenment through Buddhism and science. Challenging perspectives, embracing wisdom and inquiry. Unraveling the tapestry of reality together."
+  description = "Sharing reflections on Buddhist philosophy and practice from the perspective of a Western European monk in India following the Madhyamaka school of thought."
 
   # google analytics
   googleAnalytics = "G-9DKZ2SYTQK"
@@ -41,10 +41,10 @@ paginate = 10
   #rss = true                               # show rss icon
 
   # home page profile
-  avatar = "nicolaspettican@gmail.com"      # gravatar email or image url
+  avatar = "middlewaymonk@gmail.com"      # gravatar email or image url
   avatar_url = "/images/nt-sm.jpg"
-  name = "Bhikshu Tenpa"
-  bio = "a.k.a. Nicolas Pettican. Overly curious logic-wielder, aspiring wizard."
+  name = "Tenpa Bhikshu (Nicolas Pettican)"
+  bio = "I am a fully ordained Buddhist monk currently residing in a monastery in the Himalayas."
 
 
   # misc
