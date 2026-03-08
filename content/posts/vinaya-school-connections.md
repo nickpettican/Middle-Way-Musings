@@ -7,7 +7,8 @@ author: "Tenpa Bhikshu"
 feature_image: "/images/vinaya.png"
 og_image: "/images/vinaya.png"
 tags: [
-    "Vinaya"
+    "Vinaya",
+    "Monasticism"
 ]
 draft: false
 ---

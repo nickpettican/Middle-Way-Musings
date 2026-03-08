@@ -1,7 +1,7 @@
 ---
 title: "What Theravada Can Teach Us"
 subtitle: "How to Keep Tibetan Monasticism Alive"
-excerpt: "Western Tibetan monastics are struggling. Our tradition offers the university education, but we've forgotten to build the primary school. And without that foundation, fewer and fewer people will make it to graduation."
+excerpt: "Western Tibetan monastics are struggling. Our tradition offers the university education, but we've forgotten to build the primary school. And without that foundation, fewer and fewer people will make it to graduation..."
 date: 2025-11-22T17:02:09+05:30
 author: "Tenpa Bhikshu"
 feature_image: "/images/bodhi-tree-leaves-feature.png"
@@ -12,6 +12,7 @@ tags: [
     "Theravada",
     "Monasticism"
 ]
+weight: 1
 draft: false
 ---
 

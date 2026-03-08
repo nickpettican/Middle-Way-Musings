@@ -13,7 +13,7 @@ tags: [
     "Monasticism",
     "Sectarianism"
 ]
-weight: 1
+weight: 2
 draft: false
 ---
 
