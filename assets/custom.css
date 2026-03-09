@@ -194,8 +194,8 @@ a.site-title {
     margin: auto;
 }
 
-.flex-gap-2 {
-    gap: 0.5rem;
+.flex-col-gap-2 {
+    column-gap: 0.5rem;
 }
 
 .bl-item {
