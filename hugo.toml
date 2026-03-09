@@ -43,7 +43,8 @@ paginate = 10
   # home page profile
   avatar = "middlewaymonk@gmail.com"      # gravatar email or image url
   avatar_url = "/images/nt-sm.jpg"
-  name = "Tenpa Bhikshu (Nicolas Pettican)"
+  name = "Tenpa Bhikshu"
+  subname = "(Nicolas Pettican)"
   bio = "I am a fully ordained Buddhist monk currently residing in a monastery in the Himalayas."
 
 

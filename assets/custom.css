@@ -95,6 +95,11 @@
 
 html {
     font-family: Georgia, Cambria, 'Times New Roman', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --dark-bg: rgb(26, 25, 27);
+}
+
+:is(.dark body) {
+  background-color: var(--dark-bg);
 }
 
 body {
@@ -109,6 +114,14 @@ article {
     line-height: 1.7;
     --tw-text-opacity: 1;
     color: rgb(10 10 10 / var(--tw-text-opacity));
+}
+
+.article-card {
+    background-color: var(--bg);
+}
+
+.dark .article-card {
+    background-color: var(--dark-bg);
 }
 
 h1,
@@ -139,6 +152,14 @@ a.site-title {
     line-height: 1.2;
 }
 
+.lh-1-2 {
+    line-height: 1.2;
+}
+
+.lh-1-75 {
+    line-height: 1.75;
+}
+
 .subtitle {
     color: rgb(96 96 96 / var(--tw-text-opacity));
     font-size: 1.2em;
@@ -161,8 +182,20 @@ a.site-title {
     margin-top: 0px;
 }
 
+.mb-0 {
+    margin-bottom: 0px;
+}
+
+.mb-0-5 {
+    margin-bottom: 0.5rem;
+}
+
 .m-a {
     margin: auto;
+}
+
+.flex-gap-2 {
+    gap: 0.5rem;
 }
 
 .bl-item {
@@ -261,6 +294,12 @@ a.site-title {
 
 .prose ol ol ol ol ol ol ol {
     list-style-type: disc;
+}
+
+@media (max-width: 768px) {
+    .mobile-mb-0-5 {
+        margin-bottom: 0.5rem;
+    }
 }
 
 @media (min-width: 768px) {
