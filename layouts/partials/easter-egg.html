@@ -380,6 +380,11 @@ body.ee-shaking {
     // Haptic rumble (Android/supported browsers; silently ignored on iOS)
     if (navigator.vibrate) navigator.vibrate([80, 40, 80, 40, 160]);
 
+    // Track easter egg trigger in GA4
+    if (typeof gtag === 'function') {
+      gtag('event', 'easter_egg_triggered', { event_category: 'engagement', event_label: 'avatar_chaos' });
+    }
+
     // 1. Avatar spin
     avatarImg.classList.add('ee-avatar-chaos');
     setTimeout(function() { avatarImg.classList.remove('ee-avatar-chaos'); }, 850);
