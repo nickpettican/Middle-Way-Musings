@@ -101,7 +101,7 @@ About his well-being and more.
 སྟེང་དང་བར་གཏིང་རིམ་བཞིན་ནོ། །  
   
 Having asked, "Shall I do these [tasks]?"  
-For the purpose of [preparing] maṇḍala offerings and the like,  
+For the purpose of [preparing] shrine offerings and the like,  
 Inspect the water with an oyster shell and such,  
 From top, to middle, to bottom, layer by layer.  
 
@@ -162,8 +162,8 @@ The vow holder asks of the Guru.
   
 Having washed your hands properly,  
 Then, in silence, knowing the measure,  
-With the thought, "I shall eat"  
-[Only] to avert the illness of hunger — eat.  
+With the thought, "I shall eat  
+[Only] to avert the illness of hunger" — eat.  
 
 ༡༢ ཟོས་ཤིང་དེ་བཞིན་འཐུང་བ་དང་། །  
 རུང་བའི་ཆུ་ནི་དེ་འོག་ཏུ། །  
@@ -193,7 +193,7 @@ And persevere diligently in [their] practice.
 [While] upholding the vow, with an unimpaired mind,  
 Having deliberately intended, without mistake,  
 If [one] kills another person, by oneself or through others,  
-The vow will become broken [defeated].  
+The vow will become broken [and defeated].  
 
 ༡༥ ཚུལ་ཁྲིམས་ལྡན་ནམ་ཚུལ་ཁྲིམས་འཆལ། །  
 དེ་བཞིན་ནད་ཀྱིས་བཏབ་པ་ལ། །  
@@ -243,7 +243,7 @@ A threefold transgression is incurred.
 With stones, sticks, fists, and such,  
 Or with other [means of] harm,  
 Do not injure cattle and the like;  
-Do not ride horses and so forth.  
+And do not ride horses and so forth.  
 
 ༢༠ དགེ་ཚུལ་བདག་གམ་གཞན་རྣམས་ཀྱིས། །  
 རྐུ་སེམས་མཐུ་དང་འཇབ་བུ་ཡིས། །  
@@ -263,7 +263,7 @@ Without mistake, from another person's dwelling,
 Whatever amounts, from one's own region,  
 To a quarter kārṣāpaṇa — if stolen,  
 The moral discipline will be destroyed.  
-If [it remains only] an attempt, it is a wrongdoing [duṣkṛta].  
+If [it remains only] an attempt, it is a wrongdoing (duṣkṛta).  
 
 ༢༢ རྡོག་གུ་ར་བ་འབྲས་བུའི་ཤིང་། །  
 སྡོང་བུ་ལོ་མ་ཤུན་པ་ཆུ། །  
@@ -283,7 +283,7 @@ Fields, harvests, and plots of land,
 Boats, wood, customs' tax,  
 Likewise, boat fares,  
 Legless creatures, two-legged,  
-And many-legged — [if any of these are] stolen,  
+And many-legged — [if any of these are] stolen;  
 
 ༢༤ བརྟུལ་ཞུགས་ཅན་གྱིས་མི་ཡི་ནོར། །  
 དབྱིག་ལ་སོགས་པ་གང་ཡང་རུང་། །  
@@ -303,7 +303,7 @@ The vow is destroyed.
 If your alms bowl and such are carried off by a thief,  
 By teaching Dharma, one should recover [them].  
 Or else, buy [them] back at the appropriate price;  
-If one fails to do so, it is a wrongdoing [duṣkṛta].  
+If one fails to do so, it is a wrongdoing (duṣkṛta).  
 
 ༢༦ སྡོམ་ཅན་ཉམས་པ་མེད་སེམས་ཀྱིས། །  
 ཉམས་པ་མེད་པའི་སྒོ་གསུམ་དུ། །  
@@ -621,7 +621,7 @@ And likewise, do not sit on [his] seat.
 གུས་བཅས་ཞེ་སར་བཅས་པར་བྱ། །  
   
 Do not act erratically before [the Guru],  
-And do not expose the upper garment.  
+And do not appear with only lower robes.  
 Towards elder vow holders and the like,  
 One should act with respect and reverence.  
 
@@ -663,7 +663,7 @@ These, without asking, are without fault.
 All other activities, without exception,  
 Of a vow holder —  
 If done without having asked the Guru,  
-It is a wrongdoing [duṣkṛta].  
+It is a wrongdoing (duṣkṛta).  
 
 ༦༢ མཆོད་རྟེན་ལ་སོགས་ཕྱག་བྱས་ཏེ། །  
 མི་ཉལ་བྱས་ནས་དེ་འོག་ཏུ། །  
@@ -671,7 +671,7 @@ It is a wrongdoing [duṣkṛta].
 བརྟུལ་ཞུགས་ཅན་གིས་ཀུན་ཞུས་ཏེ། །  
   
 Having prostrated to stūpas and the like,  
-And having practised wakefulness, after that,  
+And having practised wakefulness; after that,  
 The vow holder washes the Guru's feet  
 And makes all [his] requests of the Guru.  
 
