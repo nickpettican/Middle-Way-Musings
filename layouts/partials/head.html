@@ -62,10 +62,11 @@
 
   <!-- Styles & Scripts -->
   {{ $main := resources.Get "main.css" }}
-  <!---->
   {{ $custom := resources.Get "custom.css" }}
-  <!---->
-  {{ $css := slice $main $custom | resources.Concat "main.css" | minify }}
+  {{ $styles := slice }}
+  {{ with $main }}{{ $styles = $styles | append . }}{{ end }}
+  {{ with $custom }}{{ $styles = $styles | append . }}{{ end }}
+  {{ $css := $styles | resources.Concat "main.css" | minify }}
   <link rel="preload stylesheet" as="style" href="{{ $css.Permalink }}" />
 
   {{ if and .IsPage (not site.Params.disableHLJS) }}

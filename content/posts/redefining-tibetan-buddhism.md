@@ -15,6 +15,7 @@ tags: [
     "Tibetan",
     "Indian",
 ]
+weight: 2
 draft: false
 ---
 

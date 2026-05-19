@@ -1,9 +1,10 @@
 baseURL = "https://middlewaymusings.com"
+theme = "paper"
+paginate = 10
+
 [languages.en]
 locale = "en-us"
 title = "Middle Way Musings"
-theme = "paper"
-paginate = 10
 
 [menu]
   [[menu.main]]

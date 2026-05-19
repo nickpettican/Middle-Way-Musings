@@ -12,7 +12,6 @@ tags: [
     "Theravada",
     "Monasticism"
 ]
-weight: 1
 draft: false
 ---
 
