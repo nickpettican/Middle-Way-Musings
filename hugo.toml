@@ -1,5 +1,6 @@
 baseURL = "https://middlewaymusings.com"
-languageCode = "en-us"
+[languages.en]
+locale = "en-us"
 title = "Middle Way Musings"
 theme = "paper"
 paginate = 10
@@ -21,9 +22,13 @@ paginate = 10
     [markup.goldmark.renderer]
       unsafe = true
 
+[author]
+  name = "Tenpa Bhikshu"
+
 [params]
   # meta
   description = "Sharing reflections on Buddhist philosophy and practice from the perspective of a Western European monk in India following the Madhyamaka school of thought."
+  author = "Tenpa Bhikshu"
 
   # google analytics
   googleAnalytics = "G-9DKZ2SYTQK"

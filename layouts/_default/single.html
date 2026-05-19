@@ -61,6 +61,7 @@
   {{ end }}
 
   <!-- Disqus -->
+  {{/*
   {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
   <div class="mt-24" id="disqus_thread"></div>
   <script>
@@ -71,6 +72,7 @@
     document.head.appendChild(script);
   </script>
   {{ end }}
+  */}}
 
   <!-- CommentBox -->
   {{ if and site.Params.commentBoxId (not (eq .Params.comments false)) }}
