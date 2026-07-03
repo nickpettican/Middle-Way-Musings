@@ -8,10 +8,34 @@ title = "Middle Way Musings"
 
 [menu]
   [[menu.main]]
+    identifier = "blog"
+    name = "Writings"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "wiki"
+    name = "Wiki"
+    url = "/wikis/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "journeys"
+    name = "Journeys"
+    url = "https://journey.middlewaymusings.com"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "translations"
+    name = "Translations"
+    url = "/translations/"
+    weight = 50
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 60
 
 [taxonomies]
     tag = "tags"
@@ -61,3 +85,82 @@ title = "Middle Way Musings"
   #graphCommentId = "YOUR_GRAPH_COMMENT_ID" # use graph comment (disqus alternative)
   commentBoxId = "5748664181981184-proj"    # use comment box (disqus alternative)
   math = true                               # enable KaTex math typesetting globally
+
+  # homepage catalogue (order = display order; keep last in [params]:
+  # scalar keys after an array-of-tables would attach to its last entry)
+  [[params.catalog]]
+    name = "Writings"
+    image = "/images/pecha.jpg"
+    description = "Reflections on Buddhist philosophy and practice."
+    url = "/posts/"
+    icon = "✍️"
+    external = false
+
+  [[params.catalog]]
+    name = "Pramāṇa Wiki"
+    image = "/images/sakya-pandita-cropped.png"
+    description = "A wiki on the Buddhist theory of knowledge and logic."
+    url = "https://pramana.middlewaymusings.com"
+    icon = "📖"
+    external = true
+
+  [[params.catalog]]
+    name = "Madhyamaka Wiki"
+    image = "/images/Nagarjuna-cropped.png"
+    description = "A wiki on the Middle Way philosophy of Emptiness."
+    url = "https://madhyamaka.middlewaymusings.com"
+    icon = "☸️"
+    external = true
+
+  [[params.catalog]]
+    name = "Journeys To The West"
+    image = "/images/xuanzang-cropped.jpg"
+    description = "Follow the pilgrims who documented the ancient Buddhist world."
+    url = "https://journey.middlewaymusings.com/journeys/"
+    icon = "🐫"
+    external = true
+
+  [[params.catalog]]
+    name = "Tour of Nālandā"
+    image = "/images/nalanda-university-feature.jpg"
+    description = "An interactive tour of the great monastic university."
+    url = "https://journey.middlewaymusings.com/nalanda/"
+    icon = "🏛️"
+    external = true
+
+  [[params.catalog]]
+    name = "Tour of Bodhgayā"
+    image = "/images/mahabodhi-stupa-feature.jpg"
+    description = "An interactive tour of the seat of Enlightenment."
+    url = "https://journey.middlewaymusings.com/bodh-gaya/"
+    icon = "🌳"
+    external = true
+
+  [[params.catalog]]
+    name = "Translations"
+    image = "/images/First_Council_at_Rajagaha.jpg"
+    description = "Translations of root texts from the three Piṭakas."
+    url = "/translations/"
+    icon = "🪷"
+    external = false
+
+  [[params.catalog]]
+    name = "Offering Bowl"
+    image = "/images/hero-img-bowl-sm.jpeg"
+    description = "Our non-profit connecting sponsors with monastics."
+    url = "https://offeringbowl.org"
+    icon = "🙏"
+    external = true
+
+  # wikis listed on /wikis/, grouped by the pitaka label (empty = ungrouped)
+  [[params.wikis]]
+    name = "Pramāṇa Wiki"
+    description = "A wiki on the Buddhist theory of knowledge and logic."
+    url = "https://pramana.middlewaymusings.com"
+    pitaka = "Abhidharma Pitaka"
+
+  [[params.wikis]]
+    name = "Madhyamaka Wiki"
+    description = "A wiki on the Middle Way philosophy of Emptiness."
+    url = "https://madhyamaka.middlewaymusings.com"
+    pitaka = "Abhidharma Pitaka"

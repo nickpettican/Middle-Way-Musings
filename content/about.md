@@ -1,7 +1,7 @@
 ---
 title: "About Middle Way Musings"
 date: 2023-07-03T10:08:13+05:30
-description: "Exploring enlightenment through Buddhist logic. Challenging perspectives, embracing wisdom and enquiry. Unravelling the tapestry of reality together."
+description: "Writings, wikis, interactive tours and translations on Buddhist philosophy and practice, from a Western monk studying in the Nalanda Tradition in India."
 author: "Tenpa Bhikshu"
 aliases: ["about"]
 comments: false
@@ -10,7 +10,7 @@ draft: false
 
 ## Hi, welcome
 
-I am a Western European Buddhist monk currently residing in a monastery in Northern India. This blog serves as my outlet to share reflections, insights, and observations through the lens of the Madhyamaka school of Buddhist philosophy.
+I am a Western European Buddhist monk currently residing in a monastery in Northern India. Middle Way Musings began as a blog and has grown into a small collection of projects: essays, wikis, interactive tours and translations, all approached through the lens of the Madhyamaka school of Buddhist philosophy.
 
 ## My Journey
 
@@ -24,21 +24,22 @@ As someone with a scientifically-orientated mind, I found in the Madhyamaka (Mid
 
 The term "Madhyamaka" itself comes from Sanskrit: _madhya_ meaning "middle," _ma_ meaning "most," and _ka_ functioning as an adjective suffix.
 
-## What To Expect
+## What You'll Find Here
 
-This blog will cover a diverse range of topics including:
+**[Writings](/posts/)** is where it all started: reflections on Buddhist philosophy and logic, the experiences of Western monastic life in an Eastern tradition, the intersection of science and spirituality, and the occasional poem.
 
-- Buddhist philosophy and logic
-- Experiences of Western monastic life in an Eastern tradition
-- Translations of Mahayana texts and manuscripts
-- Reflections on the intersection of science and spirituality
-- Occasional poems and creative writing
-- Personal observations on meditation practice
+**[Wikis](/wikis/)** are my working notes turned into reference material. The [Pramāṇa Wiki](https://pramana.middlewaymusings.com) covers the Buddhist theory of knowledge and logic, and the [Madhyamaka Wiki](https://madhyamaka.middlewaymusings.com) covers the Middle Way philosophy of Emptiness. More subjects will follow as my studies progress.
+
+**[Journeys To The West](https://journey.middlewaymusings.com)** is an interactive way to explore the ancient Buddhist world: follow the pilgrims who documented it, or take a tour of [Nālandā](https://journey.middlewaymusings.com/nalanda/) and [Bodhgayā](https://journey.middlewaymusings.com/bodh-gaya/).
+
+**[Translations](/translations/)** of root texts from the three Piṭakas, rendered into English as I study them.
+
+**[Offering Bowl](https://offeringbowl.org)** is the non-profit we run connecting sponsors with monastics. If you find anything here useful and wish to support monastic life, that is the place to do it.
 
 ## Purpose
 
-My intention is simple: to share perspectives that might otherwise remain inaccessible due to language, cultural, or financial barriers. I hope these writings serve as a bridge between traditional Buddhist scholarship and contemporary thinking.
+My intention is simple: to share perspectives that might otherwise remain inaccessible due to language, cultural, or financial barriers. I hope these projects serve as a bridge between traditional Buddhist scholarship and contemporary thinking.
 
-I don't claim to be an authority — just a practitioner documenting his study and practice. Some posts will be scholarly, others personal. All are offered in the spirit of exploration rather than definitive answers.
+I don't claim to be an authority — just a practitioner documenting his study and practice. Some of it is scholarly, some personal. All of it is offered in the spirit of exploration rather than definitive answers.
 
 Welcome to Middle Way Musings.

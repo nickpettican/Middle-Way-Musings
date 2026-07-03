@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ if .RegularPages }}
+{{ range $pitaka := slice "sutra" "vinaya" "abhidharma" }}
+{{ $texts := where $.RegularPages "Params.pitaka" $pitaka }}
+{{ with $texts }}
+<h2>{{ index (dict "sutra" "Sūtra Piṭaka" "vinaya" "Vinaya Piṭaka" "abhidharma" "Abhidharma Piṭaka") $pitaka }}</h2>
+<div class="catalog">
+  {{ range . }}
+  <a class="catalog-card no-underline" href="{{ .Permalink }}">
+    <div>
+      <h3 class="catalog-title">{{ .Title }}</h3>
+      {{ with .Params.original }}<p class="catalog-desc"><em>{{ . }}</em></p>{{ end }}
+      {{ with .Params.excerpt }}<p class="catalog-desc">{{ . }}</p>{{ end }}
+    </div>
+  </a>
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}
+{{ else }}
+<p>Translations are forthcoming.</p>
+{{ end }}
+
+{{ end }}

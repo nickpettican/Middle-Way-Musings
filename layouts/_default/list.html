@@ -7,16 +7,13 @@
 
 <!-- $pages -->
 {{ $pages := union .RegularPages .Sections }}<!---->
-{{ if .IsHome }}<!---->
-{{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
-{{ end }}
 
 <!-- Articles -->
 {{ $paginator := .Paginate $pages }} {{ range $index, $page := $paginator.Pages
 }}<!---->
 
 <!-- avatar -->
-{{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
+{{ if and (eq $.Section "posts") (eq $paginator.PageNumber 1) (eq $index 0) }}
 
 {{ $avatar_url := $.Scratch.Get "avatar_url" }}
 {{ if or $avatar_url site.Params.name }}

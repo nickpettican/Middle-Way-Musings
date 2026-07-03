@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ $wikis := site.Params.wikis }}
+
+<!-- ungrouped wikis first, then one heading per distinct pitaka label -->
+{{ $ungrouped := where $wikis "pitaka" "" }}
+{{ with $ungrouped }}
+<div class="catalog">
+  {{ range . }}
+  {{ partial "wiki-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{ $groups := slice }}
+{{ range $wikis }}
+{{ if and .pitaka (not (in $groups .pitaka)) }}{{ $groups = $groups | append .pitaka }}{{ end }}
+{{ end }}
+
+{{ range $g := $groups }}
+<h2>{{ $g }}</h2>
+<div class="catalog">
+  {{ range where $wikis "pitaka" $g }}
+  {{ partial "wiki-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{ end }}

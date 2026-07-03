@@ -115,8 +115,9 @@ body.ee-shaking {
   z-index: 5;
   transition: none !important;
 }
-/* Disable links inside fallen cards so people don't accidentally navigate */
-.ee-falling a {
+/* Disable links inside (or as) fallen cards so people don't accidentally navigate */
+.ee-falling a,
+a.ee-falling {
   pointer-events: none;
 }
 
@@ -229,7 +230,7 @@ body.ee-shaking {
 
   // Fallable elements: article sections + pagination nav inside <main>
   const mainEl = document.querySelector('main');
-  const articleSections = mainEl ? Array.from(mainEl.querySelectorAll(':scope > section.relative')) : [];
+  const articleSections = mainEl ? Array.from(mainEl.querySelectorAll(':scope > section.relative, .instax')) : [];
   const paginationNav = mainEl ? mainEl.querySelector(':scope > nav') : null;
 
   const fallableEls = [...articleSections];
