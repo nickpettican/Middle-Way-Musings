@@ -97,14 +97,6 @@ title = "Middle Way Musings"
     external = false
 
   [[params.catalog]]
-    name = "Pramāṇa Wiki"
-    image = "/images/sakya-pandita-cropped.png"
-    description = "A wiki on the Buddhist theory of knowledge and logic."
-    url = "https://pramana.middlewaymusings.com"
-    icon = "📖"
-    external = true
-
-  [[params.catalog]]
     name = "Madhyamaka Wiki"
     image = "/images/Nagarjuna-cropped.png"
     description = "A wiki on the Middle Way philosophy of Emptiness."
@@ -137,6 +129,14 @@ title = "Middle Way Musings"
     external = true
 
   [[params.catalog]]
+    name = "Pramāṇa Wiki (WIP)"
+    image = "/images/sakya-pandita-cropped.png"
+    description = "A wiki on the Buddhist theory of knowledge and logic."
+    url = "https://pramana.middlewaymusings.com"
+    icon = "📖"
+    external = true
+
+  [[params.catalog]]
     name = "Translations"
     image = "/images/First_Council_at_Rajagaha.jpg"
     description = "Translations of root texts from the three Piṭakas."
@@ -154,13 +154,13 @@ title = "Middle Way Musings"
 
   # wikis listed on /wikis/, grouped by the pitaka label (empty = ungrouped)
   [[params.wikis]]
-    name = "Pramāṇa Wiki"
-    description = "A wiki on the Buddhist theory of knowledge and logic."
-    url = "https://pramana.middlewaymusings.com"
-    pitaka = "Abhidharma Pitaka"
-
-  [[params.wikis]]
     name = "Madhyamaka Wiki"
     description = "A wiki on the Middle Way philosophy of Emptiness."
     url = "https://madhyamaka.middlewaymusings.com"
+    pitaka = "Abhidharma Pitaka"
+
+  [[params.wikis]]
+    name = "Pramāṇa Wiki (WIP)"
+    description = "A wiki on the Buddhist theory of knowledge and logic."
+    url = "https://pramana.middlewaymusings.com"
     pitaka = "Abhidharma Pitaka"

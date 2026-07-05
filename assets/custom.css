@@ -483,11 +483,23 @@ a.site-title {
     opacity: 0.45;
 }
 
-/* the print stays a light object in dark mode, just dimmed a touch */
+/* in dark mode the print becomes a dark object: charcoal frame, light text */
 .dark .instax {
-    background: #e8e4db;
-    border-color: rgb(255 255 255 / 0.08);
+    background: #14171a;
+    border-color: rgb(255 255 255 / 0.1);
     box-shadow: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 20px rgb(0 0 0 / 0.5);
+}
+
+.dark .instax-photo {
+    background: #14171a;
+}
+
+.dark .instax-title {
+    color: #ececea;
+}
+
+.dark .instax-desc {
+    color: rgb(236 236 234 / 0.6);
 }
 
 /* ── Text-card catalogue (translations & wikis pages) ── */
