@@ -82,15 +82,15 @@ Moreover, if God depends on the coming together of causes and conditions, He is 
 
 ## Refuting the Remaining Qualities
 
-Advocates of a Creator God often put forth the notion that the entirety of existence serves as a test, determining the fates of individuals for eternity — sending them to either heaven or hell based on their actions. However, this perspective opens the door to challenge the idea of an all-compassionate and all-knowing God.
+Advocates of a Creator God often put forth the notion that the entirety of existence serves as a test, determining the fates of individuals for eternity—sending them to either heaven or hell based on their actions. However, this perspective opens the door to challenge the idea of an all-compassionate and all-knowing God.
 
 Consider the assertion that our existence is akin to a simulation or an elaborate mirage designed to evaluate humanity. If this were the case, it would conflict with the very notion of omniscience attributed to such a God. An omniscient being would already possess knowledge of the outcome, rendering the test itself a redundant exercise, akin to a preordained theatrical performance where the ending is predetermined. 
 
-Furthermore, if this Creator God is responsible for every detail of existence — including the human mind, emotions, and moral framework — then the suffering or well-being of individuals lies under His direct control.
+Furthermore, if this Creator God is responsible for every detail of existence—including the human mind, emotions, and moral framework—then the suffering or well-being of individuals lies under His direct control.
 
 Let us accept that compassion is defined as the deep desire for others to be free from suffering and its causes. Likewise, mercy involves displaying compassion and forgiveness toward those one has the power to harm or punish. In light of this, subjecting beings to suffering, whether temporary or eternal, while possessing the authority to prevent it, contradicts the very idea of limitless compassion and benevolence.
 
-An argument might be put forth that suffering is a necessary element in order to effectively test and evaluate human beings. However, let us imagine an omniscient genetic engineer who designs and creates a dog and constructs an intricate obstacle course to test the dog's moral compass. If the dog were to fail, this engineer then proceeds to subject the dog to intense suffering — perhaps even immersing it in boiling oil, ensuring that the dog remains alive to experience the torment. Such an action, even for a day, would be widely viewed as devoid of compassion. What need is there to mention if the engineer subjected the dog to such suffering for an eternity?
+An argument might be put forth that suffering is a necessary element in order to effectively test and evaluate human beings. However, let us imagine an omniscient genetic engineer who designs and creates a dog and constructs an intricate obstacle course to test the dog's moral compass. If the dog were to fail, this engineer then proceeds to subject the dog to intense suffering—perhaps even immersing it in boiling oil, ensuring that the dog remains alive to experience the torment. Such an action, even for a day, would be widely viewed as devoid of compassion. What need is there to mention if the engineer subjected the dog to such suffering for an eternity?
 
 Faced with these contradictions, proponents of Creator God typically offer several defenses, each of which contains further logical inconsistencies.
 

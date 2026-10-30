@@ -40,6 +40,6 @@ The term "Madhyamaka" itself comes from Sanskrit: _madhya_ meaning "middle," _ma
 
 My intention is simple: to share perspectives that might otherwise remain inaccessible due to language, cultural, or financial barriers. I hope these projects serve as a bridge between traditional Buddhist scholarship and contemporary thinking.
 
-I don't claim to be an authority — just a practitioner documenting his study and practice. Some of it is scholarly, some personal. All of it is offered in the spirit of exploration rather than definitive answers.
+I don't claim to be an authority—just a practitioner documenting his study and practice. Some of it is scholarly, some personal. All of it is offered in the spirit of exploration rather than definitive answers.
 
 Welcome to Middle Way Musings.

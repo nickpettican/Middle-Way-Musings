@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <article>
-  <header class="mb-20">
+  <header class="mb-10">
     <h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
     {{ if .Params.Subtitle }}
     <h2 class="!my-0 pb-2.5 subtitle">{{ .Params.Subtitle }}</h1>
@@ -23,6 +23,13 @@
     </div>
     {{ end }}
   </header>
+
+  {{ if .Params.toc }}
+  <details class="toc mb-10">
+    <summary>Contents</summary>
+    {{ .TableOfContents }}
+  </details>
+  {{ end }}
 
   <section>{{ .Content }}</section>
 

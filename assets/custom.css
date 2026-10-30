@@ -190,6 +190,14 @@ a.site-title {
     margin-bottom: 0.5rem;
 }
 
+.mb-10 {
+    margin-bottom: 2.5rem;
+}
+
+.mb-15 {
+    margin-bottom: 3.75rem;
+}
+
 .m-a {
     margin: auto;
 }

@@ -32,9 +32,9 @@ draft: false
 
 ## Foreword
 
-The Śrāmaṇerakārikā or Getsul-kārikā ("Verses for a Novice Monk") is a short practical manual attributed to Ācārya Nāgārjuna (མགོན་པོ་ཀླུ་སྒྲུབ།), composed in verse for easy memorisation. It belongs to the Mūlasarvāstivāda Vinaya tradition — the monastic code followed in Tibetan Buddhism — and provides a concise guide to the daily conduct and training of a novice monk (śrāmaṇera, Tib. དགེ་ཚུལ Getsul).
+The Śrāmaṇerakārikā or Getsul-kārikā ("Verses for a Novice Monk") is a short practical manual attributed to Ācārya Nāgārjuna (མགོན་པོ་ཀླུ་སྒྲུབ།), composed in verse for easy memorisation. It belongs to the Mūlasarvāstivāda Vinaya tradition—the monastic code followed in Tibetan Buddhism—and provides a concise guide to the daily conduct and training of a novice monk (śrāmaṇera, Tib. དགེ་ཚུལ Getsul).
 
-The text covers the novice's full day from rising before dawn to falling asleep in the lion's posture, passing through morning recitations, service to one's teacher, the preparation and inspection of water, mindful eating, and study. It then sets out the key precepts: the four root downfalls (pārājika) — killing, stealing, sexual conduct, and false claims of attainment — followed by rules on speech, intoxicants, adornment, food timing, the handling of gold and silver, and monastic etiquette.
+The text covers the novice's full day from rising before dawn to falling asleep in the lion's posture, passing through morning recitations, service to one's teacher, the preparation and inspection of water, mindful eating, and study. It then sets out the key precepts: the four root downfalls (pārājika)—killing, stealing, sexual conduct, and false claims of attainment—followed by rules on speech, intoxicants, adornment, food timing, the handling of gold and silver, and monastic etiquette.
 
 What makes this text distinctive is its brevity and directness. In just sixty-five verses, Nāgārjuna distils the essentials of monastic training into a form that is both memorable and immediately applicable. It remains a foundational text for novice monks in the Tibetan tradition.
 
@@ -147,7 +147,7 @@ And attend to all the Guru's needs.
   
 Then, knowing the time, having bowed,  
 With palms joined respectfully likewise,  
-"Will [you] eat or not eat?" — thus  
+"Will [you] eat or not eat?"—thus  
 The vow holder asks of the Guru.  
 
 ༡༡ ལག་པ་བཀྲུས་ནས་ཚུལ་བཞིན་དུ། །  
@@ -158,7 +158,7 @@ The vow holder asks of the Guru.
 Having washed your hands properly,  
 Then, in silence, knowing the measure,  
 With the thought, "I shall eat  
-[Only] to avert the illness of hunger" — eat.  
+[Only] to avert the illness of hunger"—eat.  
 
 ༡༢ ཟོས་ཤིང་དེ་བཞིན་འཐུང་བ་དང་། །  
 རུང་བའི་ཆུ་ནི་དེ་འོག་ཏུ། །  
@@ -167,7 +167,7 @@ With the thought, "I shall eat
   
 Having eaten and drunk suitable water,  
 Thereafter, to increase generosity's merit,  
-Recite two verses of offering —  
+Recite two verses of offering— 
 That the virtue of giving may flourish.  
 
 ༡༣ མན་ངག་ཡོད་ན་བསམ་གཏན་བྱ། །  
@@ -197,7 +197,7 @@ The vow will become broken [and defeated].
   
 To those with moral discipline, those with faulty discipline,  
 Or likewise those afflicted by illness,  
-Who upon hearing [would become] desperate with suffering —  
+Who upon hearing [would become] desperate with suffering— 
 Do not give a Dharma talk [that leads to] certain death.  
 
 ༡༦ སྨན་དང་སྔགས་དང་རིག་པ་དང་། །  
@@ -207,7 +207,7 @@ Do not give a Dharma talk [that leads to] certain death.
   
 By medicine, mantras, or occult knowledge,  
 By sending [someone] towards the direction of death,  
-Or by various other means — if another person  
+Or by various other means—if another person  
 Is killed, the vow will become broken.  
 
 ༡༧ དུད་འགྲོ་དང་ནི་སེམས་དམྱལ་དང་། །  
@@ -248,7 +248,7 @@ And do not ride horses and so forth.
 If a novice, by himself or through others,  
 With a thieving mind, by force or by stealth,  
 Without mistake, from another person's dwelling,  
-[Takes] five māṣakas' worth or —  
+[Takes] five māṣakas' worth or— 
 
 ༢༡ རང་གི་ཡུལ་ནས་བྱུང་བ་གང་། །  
 ཀཱར་ཥཱ་པ་ཎའི་བཞི་ཆ་བརྐུས། །  
@@ -256,7 +256,7 @@ Without mistake, from another person's dwelling,
 སྦྱོར་བའི་འཚེ་ན་ཉེས་བྱས་སོ། །  
   
 Whatever amounts, from one's own region,  
-To a quarter kārṣāpaṇa — if stolen,  
+To a quarter kārṣāpaṇa—if stolen,  
 The moral discipline will be destroyed.  
 If [it remains only] an attempt, it is a wrongdoing (duṣkṛta).  
 
@@ -278,7 +278,7 @@ Fields, harvests, and plots of land,
 Boats, wood, customs' tax,  
 Likewise, boat fares,  
 Legless creatures, two-legged,  
-And many-legged — [if any of these are] stolen;  
+And many-legged—[if any of these are] stolen;  
 
 ༢༤ བརྟུལ་ཞུགས་ཅན་གྱིས་མི་ཡི་ནོར། །  
 དབྱིག་ལ་སོགས་པ་གང་ཡང་རུང་། །  
@@ -286,7 +286,7 @@ And many-legged — [if any of these are] stolen;
 རིང་ཐང་ཚང་ན་སྡོམ་པ་ཞིག  
   
 If a vow holder, with a thieving mind,  
-Steals a person's wealth — jewels or whatever it may be —  
+Steals a person's wealth—jewels or whatever it may be— 
 Whatever is stolen, if the [threshold] value is met,  
 The vow is destroyed.  
 
@@ -308,7 +308,7 @@ If one fails to do so, it is a wrongdoing (duṣkṛta).
 If a vow holder, with an unimpaired mind,  
 Through desire, [his] jewel passes inside  
 Any of three undiseased orifices,  
-And pleasure is experienced — the vow is broken.  
+And pleasure is experienced—the vow is broken.  
 
 ༢༧ སྐྱེས་པ་བུད་མེད་མ་ནིང་གི། །  
 ཚན་ཀར་བོར་ཏེ་མནན་པ་ལས། །  
@@ -348,7 +348,7 @@ And becomes an obscuration even to nirvāṇa.
 [Claiming,] "I have seen gods," "I have heard their voices,"  
 "I have conversed with them,"  
 "Gods come to where I dwell,"  
-"And I also go to their presence" —  
+"And I also go to their presence"— 
 
 ༣༡ དེ་བཞིན་དྲི་ཟ་གྲུལ་བུམ་ཀླུ། །  
 གནོད་སྦྱིན་ལྟོ་འཕྱེ་ཆེན་པོ་དང་། །  
@@ -357,7 +357,7 @@ And becomes an obscuration even to nirvāṇa.
   
 Likewise, [claiming to have seen] gandharvas,  
 Kumbhāṇḍas, nāgas, yakṣas, and mahoragas,  
-Rākṣasa [demons], pretas, and kinnaras —  
+Rākṣasa [demons], pretas, and kinnaras— 
 Saying "I have seen [them]," and so forth,  
 
 ༣༢ བསམ་གཏན་མངོན་ཤེས་ཚད་མེད་དང་། །  
@@ -368,7 +368,7 @@ Saying "I have seen [them]," and so forth,
 [Claiming,] "I have attained" dhyāna,  
 Superknowledges, the immeasurables,  
 The fruit of stream-entry and so forth,  
-Or having truly entered the path — if one says so,  
+Or having truly entered the path—if one says so,  
 
 ༣༣ དོན་རིག་པ་ལ་བརྫུན་པའི་ཚིག  
 ཁད་པར་ཐོབ་པའི་བདག་ཉིད་ཅན། །  
@@ -377,7 +377,7 @@ Or having truly entered the path — if one says so,
   
 If false words, of the nature of [claiming] special attainments,  
 Are spoken to one who understands their meaning,  
-With an unimpaired [mind] and without delusion —  
+With an unimpaired [mind] and without delusion— 
 The vow will become broken.  
 
 ༣༤ ཁད་པར་ཐོབ་པ་མ་གཏོགས་པར། །  
@@ -408,7 +408,7 @@ And do not speak harsh words.
 When spoken to ill, speak no ill in return;  
 When scolded, do not scold again.  
 When your faults are laid bare, do not bare theirs in turn;  
-When struck, do not strike — [forbear and abstain].  
+When struck, do not strike—[forbear and abstain].  
 
 ༣༧ བློ་ལྡན་བསླབ་པ་འདོད་པ་ཡིས། །  
 བསྒྲིམས་ཏེ་ངག་གི་སྐྱེན་རྣམས་སྤངས། །  
@@ -426,7 +426,7 @@ One should thoroughly restrain one's speech.
 སྦྱར་བའི་ཁུ་བ་བཅོས་པའི་ཆང། །  
   
 Grain liquor, [made from] grain  
-Combined with yeast — such varieties of drink —  
+Combined with yeast—such varieties of drink— 
 And fabricated liquor, prepared from  
 The extracts of stalks, flowers, and fruits;  
 
@@ -447,7 +447,7 @@ And the vow holder becomes heedless.
   
 From heedlessness, the vow is damaged;  
 Therefore, recall the Teacher's words:  
-"Intoxication causes faults to increase —  
+"Intoxication causes faults to increase— 
 Do not drink even [the amount on] the tip of a kuśa blade."  
 
 ༤༡ གླུ་གར་དེ་བཞིན་སིལ་སྙན་རྣམས། །  
@@ -455,7 +455,7 @@ Do not drink even [the amount on] the tip of a kuśa blade."
 ལུས་ལ་སྤོས་ཀྱིས་མི་བྱུག་གོ། །  
 ཙནྡན་ལ་སོགས་མི་བསྐུའོ། །  
   
-Song, dance, and likewise musical instruments —  
+Song, dance, and likewise musical instruments— 
 One holding vows should not [engage in] these.  
 Do not anoint the body with perfume,  
 Nor apply sandalwood and the like.  
@@ -467,7 +467,7 @@ Nor apply sandalwood and the like.
   
 Do not paint [the body] with colours  
 Of turmeric, saffron, and the like.  
-Flowers, head ornaments, and garlands —  
+Flowers, head ornaments, and garlands— 
 A vow holder should not wear [these].  
 
 ༤༣ གསེར་ལ་སོགས་པའི་རྒྱན་རྣམས་ཀྱིས། །  
@@ -477,7 +477,7 @@ A vow holder should not wear [these].
   
 Do not adorn oneself with ornaments  
 Of gold and the like.  
-Kohl and such eye ointments —  
+Kohl and such eye ointments— 
 Do not apply when the eyes are not ailing.  
 
 ༤༤ ཤིང་ཁྲི་ཁྲུ་གང་མཐོ་བ་དང་། །  
@@ -487,7 +487,7 @@ Do not apply when the eyes are not ailing.
   
 Wooden beds one cubit high,  
 And seats adorned with ivory and the like,  
-Even [if] low, [on] fine sleeping beds —  
+Even [if] low, [on] fine sleeping beds— 
 Do not sleep and so forth [upon these].  
 
 ༤༥ གླུ་གར་ལ་སོགས་བསྟེན་པ་དང་། །  
@@ -506,7 +506,7 @@ Having abandoned the elements of pride,
 སོམ་ཅན་གྱིས་ནི་དེར་མི་བཟའ། །  
   
 From the midday point onward,  
-Until the break of dawn —  
+Until the break of dawn— 
 This the Victor declared to be the untimely [period];  
 A vow holder should not eat during that [time].  
 
@@ -516,7 +516,7 @@ A vow holder should not eat during that [time].
 བཟའ་བའི་དུས་སུ་ཟོས་པ་ཡིན། །  
   
 From the break of dawn until midday,  
-Eating during that occasion —  
+Eating during that occasion— 
 That is the self-aware [observance of the] vow:  
 [It means] having eaten at the time for eating.  
 
@@ -546,7 +546,7 @@ A vow holder should not accept [them].
 དེ་ནས་གཞན་ཞིག་ལེན་དུ་གཞུག  
   
 "This is not suitable for me;  
-By this, I shall seek suitable things" —  
+By this, I shall seek suitable things"— 
 Having clearly thought thus,  
 Then have another person receive [it].  
 
@@ -556,7 +556,7 @@ Then have another person receive [it].
 ཉེས་པར་འགྱུར་བ་མ་ཡིན་ནོ། །  
   
 For the sake of the Three Jewels,  
-Or for those who practise brahmacarya [pure conduct] —  
+Or for those who practise brahmacarya [pure conduct]— 
 Even if one touches gold and silver,  
 It will not become a fault.  
 
@@ -565,7 +565,7 @@ It will not become a fault.
 བར་དུ་གཅོད་པར་མི་འགྱུར་ཞེས། །  
 དགེ་ཚུལ་གཏི་མུག་མ་སྨྲ་ཅིག  
   
-"[These] create obstructions to [overcoming] desire" —  
+"[These] create obstructions to [overcoming] desire"— 
 So the Perfect Buddha declared.  
 A novice should not speak from delusion, saying,  
 "[These] do not become obstructions."  
@@ -647,7 +647,7 @@ Do not sit without mindfulness;
   
 Brushing teeth, drinking water,  
 Going to relieve oneself,  
-And prostrating to the Teacher within the precinct —  
+And prostrating to the Teacher within the precinct— 
 These, without asking, are without fault.  
 
 ༦༡ བརྟུལ་ཞུགས་ཅན་གིས་བྱ་བ་གཞན། །  
@@ -656,7 +656,7 @@ These, without asking, are without fault.
 བྱས་ན་དེ་ལ་ཉེས་བྱས་སོ། །  
   
 All other activities, without exception,  
-Of a vow holder —  
+Of a vow holder— 
 If done without having asked the Guru,  
 It is a wrongdoing (duṣkṛta).  
 
@@ -688,7 +688,7 @@ By this, one lives true to one's word.
 With the intent to rise again, envisioning light,  
 Lie in the lion's sleeping posture.  
 With mindfulness and [maintaining] a virtuous continuum,  
-Likewise, having quickly awakened —  
+Likewise, having quickly awakened— 
 
 ༦༥ ཇི་སྐད་བསྟན་པ་བཞིན་དུ་བྱ། །  
 ཇི་ལྟར་ཉོན་མོངས་མྱུར་ཟད་དང་། །  

@@ -33,9 +33,9 @@ draft: false
 
 ## Foreword
 
-The Śrāmaṇerakārikā or Getsul-kārikā ("Verses for a Novice Monk") is a short practical manual attributed to Ācārya Nāgārjuna, composed in verse for easy memorisation. It belongs to the Mūlasarvāstivāda Vinaya tradition — the monastic code followed in Tibetan Buddhism — and provides a concise guide to the daily conduct and training of a novice monk (śrāmaṇera, Tib. Getsul).
+The Śrāmaṇerakārikā or Getsul-kārikā ("Verses for a Novice Monk") is a short practical manual attributed to Ācārya Nāgārjuna, composed in verse for easy memorisation. It belongs to the Mūlasarvāstivāda Vinaya tradition—the monastic code followed in Tibetan Buddhism—and provides a concise guide to the daily conduct and training of a novice monk (śrāmaṇera, Tib. Getsul).
 
-The text covers the novice's full day from rising before dawn to falling asleep in the lion's posture, passing through morning recitations, service to one's teacher, the preparation and inspection of water, mindful eating, and study. It then sets out the key precepts: the four root downfalls (pārājika) — killing, stealing, sexual conduct, and false claims of attainment — followed by rules on speech, intoxicants, adornment, food timing, the handling of gold and silver, and monastic etiquette.
+The text covers the novice's full day from rising before dawn to falling asleep in the lion's posture, passing through morning recitations, service to one's teacher, the preparation and inspection of water, mindful eating, and study. It then sets out the key precepts: the four root downfalls (pārājika)—killing, stealing, sexual conduct, and false claims of attainment—followed by rules on speech, intoxicants, adornment, food timing, the handling of gold and silver, and monastic etiquette.
 
 What makes this text distinctive is its brevity and directness. In just sixty-five verses, Nāgārjuna distils the essentials of monastic training into a form that is both memorable and immediately applicable. It remains a foundational text for novice monks in the Tibetan tradition.
 
@@ -109,19 +109,19 @@ And attend to all the Guru's needs.
 **10**  
 Then, knowing the time, having bowed,  
 With palms joined respectfully likewise,  
-"Will [you] eat or not eat?" — thus  
+"Will [you] eat or not eat?"—thus  
 The vow holder asks of the Guru.  
 
 **11**  
 Having washed your hands properly,  
 Then, in silence, knowing the measure,  
 With the thought, "I shall eat  
-[Only] to avert the illness of hunger" — eat.  
+[Only] to avert the illness of hunger"—eat.  
 
 **12**  
 Having eaten and drunk suitable water,  
 Thereafter, to increase generosity's merit,  
-Recite two verses of offering —  
+Recite two verses of offering— 
 That the virtue of giving may flourish.  
 
 **13**  
@@ -139,13 +139,13 @@ The vow will become broken [and defeated].
 **15**  
 To those with moral discipline, those with faulty discipline,  
 Or likewise those afflicted by illness,  
-Who upon hearing [would become] desperate with suffering —  
+Who upon hearing [would become] desperate with suffering— 
 Do not give a Dharma talk [that leads to] certain death.  
 
 **16**  
 By medicine, mantras, or occult knowledge,  
 By sending [someone] towards the direction of death,  
-Or by various other means — if another person  
+Or by various other means—if another person  
 Is killed, the vow will become broken.  
 
 **17**  
@@ -170,11 +170,11 @@ And do not ride horses and so forth.
 If a novice, by himself or through others,  
 With a thieving mind, by force or by stealth,  
 Without mistake, from another person's dwelling,  
-[Takes] five māṣakas' worth or —  
+[Takes] five māṣakas' worth or— 
 
 **21**  
 Whatever amounts, from one's own region,  
-To a quarter kārṣāpaṇa — if stolen,  
+To a quarter kārṣāpaṇa—if stolen,  
 The moral discipline will be destroyed.  
 If [it remains only] an attempt, it is a wrongdoing (duṣkṛta).  
 
@@ -188,11 +188,11 @@ Fields, harvests, and plots of land,
 Boats, wood, customs' tax,  
 Likewise, boat fares,  
 Legless creatures, two-legged,  
-And many-legged — [if any of these are] stolen;  
+And many-legged—[if any of these are] stolen;  
 
 **24**  
 If a vow holder, with a thieving mind,  
-Steals a person's wealth — jewels or whatever it may be —  
+Steals a person's wealth—jewels or whatever it may be— 
 Whatever is stolen, if the [threshold] value is met,  
 The vow is destroyed.  
 
@@ -206,7 +206,7 @@ If one fails to do so, it is a wrongdoing (duṣkṛta).
 If a vow holder, with an unimpaired mind,  
 Through desire, [his] jewel passes inside  
 Any of three undiseased orifices,  
-And pleasure is experienced — the vow is broken.  
+And pleasure is experienced—the vow is broken.  
 
 **27**  
 If, having been overpowered and forced  
@@ -230,24 +230,24 @@ And becomes an obscuration even to nirvāṇa.
 [Claiming,] "I have seen gods," "I have heard their voices,"  
 "I have conversed with them,"  
 "Gods come to where I dwell,"  
-"And I also go to their presence" —  
+"And I also go to their presence"— 
 
 **31**  
 Likewise, [claiming to have seen] gandharvas,  
 Kumbhāṇḍas, nāgas, yakṣas, and mahoragas,  
-Rākṣasa [demons], pretas, and kinnaras —  
+Rākṣasa [demons], pretas, and kinnaras— 
 Saying "I have seen [them]," and so forth,  
 
 **32**  
 [Claiming,] "I have attained" dhyāna,  
 Superknowledges, the immeasurables,  
 The fruit of stream-entry and so forth,  
-Or having truly entered the path — if one says so,  
+Or having truly entered the path—if one says so,  
 
 **33**  
 If false words, of the nature of [claiming] special attainments,  
 Are spoken to one who understands their meaning,  
-With an unimpaired [mind] and without delusion —  
+With an unimpaired [mind] and without delusion— 
 The vow will become broken.  
 
 **34**  
@@ -266,7 +266,7 @@ And do not speak harsh words.
 When spoken to ill, speak no ill in return;  
 When scolded, do not scold again.  
 When your faults are laid bare, do not bare theirs in turn;  
-When struck, do not strike — [forbear and abstain].  
+When struck, do not strike—[forbear and abstain].  
 
 **37**  
 The intelligent one who desires the training,  
@@ -276,7 +276,7 @@ One should thoroughly restrain one's speech.
 
 **38**  
 Grain liquor, [made from] grain  
-Combined with yeast — such varieties of drink —  
+Combined with yeast—such varieties of drink— 
 And fabricated liquor, prepared from  
 The extracts of stalks, flowers, and fruits;  
 
@@ -289,11 +289,11 @@ And the vow holder becomes heedless.
 **40**  
 From heedlessness, the vow is damaged;  
 Therefore, recall the Teacher's words:  
-"Intoxication causes faults to increase —  
+"Intoxication causes faults to increase— 
 Do not drink even [the amount on] the tip of a kuśa blade."  
 
 **41**  
-Song, dance, and likewise musical instruments —  
+Song, dance, and likewise musical instruments— 
 One holding vows should not [engage in] these.  
 Do not anoint the body with perfume,  
 Nor apply sandalwood and the like.  
@@ -301,19 +301,19 @@ Nor apply sandalwood and the like.
 **42**  
 Do not paint [the body] with colours  
 Of turmeric, saffron, and the like.  
-Flowers, head ornaments, and garlands —  
+Flowers, head ornaments, and garlands— 
 A vow holder should not wear [these].  
 
 **43**  
 Do not adorn oneself with ornaments  
 Of gold and the like.  
-Kohl and such eye ointments —  
+Kohl and such eye ointments— 
 Do not apply when the eyes are not ailing.  
 
 **44**  
 Wooden beds one cubit high,  
 And seats adorned with ivory and the like,  
-Even [if] low, [on] fine sleeping beds —  
+Even [if] low, [on] fine sleeping beds— 
 Do not sleep and so forth [upon these].  
 
 **45**  
@@ -324,13 +324,13 @@ Having abandoned the elements of pride,
 
 **46**  
 From the midday point onward,  
-Until the break of dawn —  
+Until the break of dawn— 
 This the Victor declared to be the untimely [period];  
 A vow holder should not eat during that [time].  
 
 **47**  
 From the break of dawn until midday,  
-Eating during that occasion —  
+Eating during that occasion— 
 That is the self-aware [observance of the] vow:  
 [It means] having eaten at the time for eating.  
 
@@ -348,18 +348,18 @@ A vow holder should not accept [them].
 
 **50**  
 "This is not suitable for me;  
-By this, I shall seek suitable things" —  
+By this, I shall seek suitable things"— 
 Having clearly thought thus,  
 Then have another person receive [it].  
 
 **51**  
 For the sake of the Three Jewels,  
-Or for those who practise brahmacarya [pure conduct] —  
+Or for those who practise brahmacarya [pure conduct]— 
 Even if one touches gold and silver,  
 It will not become a fault.  
 
 **52**  
-"[These] create obstructions to [overcoming] desire" —  
+"[These] create obstructions to [overcoming] desire"— 
 So the Perfect Buddha declared.  
 A novice should not speak from delusion, saying,  
 "[These] do not become obstructions."  
@@ -409,12 +409,12 @@ Do not sit without mindfulness;
 **60**  
 Brushing teeth, drinking water,  
 Going to relieve oneself,  
-And prostrating to the Teacher within the precinct —  
+And prostrating to the Teacher within the precinct— 
 These, without asking, are without fault.  
 
 **61**  
 All other activities, without exception,  
-Of a vow holder —  
+Of a vow holder— 
 If done without having asked the Guru,  
 It is a wrongdoing (duṣkṛta).  
 
@@ -434,7 +434,7 @@ By this, one lives true to one's word.
 With the intent to rise again, envisioning light,  
 Lie in the lion's sleeping posture.  
 With mindfulness and [maintaining] a virtuous continuum,  
-Likewise, having quickly awakened —  
+Likewise, having quickly awakened— 
 
 **65**  
 Act just as has been taught.  
