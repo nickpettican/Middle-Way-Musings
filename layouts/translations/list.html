@@ -9,6 +9,12 @@
 {{ $texts := where $.RegularPages "Params.pitaka" $pitaka }}
 {{ with $texts }}
 <h2>{{ index (dict "sutra" "Sūtra Piṭaka" "vinaya" "Vinaya Piṭaka" "abhidharma" "Abhidharma Piṭaka") $pitaka }}</h2>
+{{/* optional `section` param sub-groups a piṭaka, e.g. Pramāṇa under Abhidharma */}}
+{{ $groups := slice (dict "key" "" "pages" (where . "Params.section" "eq" nil)) }}
+{{ range .GroupByParam "section" }}{{ $groups = $groups | append (dict "key" .Key "pages" .Pages) }}{{ end }}
+{{ range $groups }}
+{{ with .key }}<h3>{{ . }}</h3>{{ end }}
+{{ with .pages }}
 <div class="catalog">
   {{ range . }}
   <a class="catalog-card no-underline" href="{{ .Permalink }}">
@@ -20,6 +26,8 @@
   </a>
   {{ end }}
 </div>
+{{ end }}
+{{ end }}
 {{ end }}
 {{ end }}
 {{ else }}

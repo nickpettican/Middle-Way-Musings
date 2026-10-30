@@ -28,6 +28,10 @@ git submodule update --init --recursive
 
 echo -e "Building site for production\n"
 
+# empty public/ so stale pages (e.g. drafts from local builds) aren't deployed;
+# not --cleanDestinationDir, which deletes the submodule's .git file
+find public -mindepth 1 -maxdepth 1 ! -name .git ! -name .gitignore -exec rm -rf {} +
+
 hugo -t paper --minify --environment production
 
 echo -e "Pushing to production repo\n"
